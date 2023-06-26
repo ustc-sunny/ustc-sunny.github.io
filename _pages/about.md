@@ -74,7 +74,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 # 🎓 Educations
 
 <div class='school-box'>
-<div><img src='images/ustc.jpg' alt="sym" width="80"></div>
+<div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Ph.D. Student.
 
