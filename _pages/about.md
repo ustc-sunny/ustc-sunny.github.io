@@ -31,21 +31,14 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 # 📝 Publications 
 ## Conferences
 - He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023 [CCF A], (Acceptance Rate: 252/1312=19.2%).
-Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023 [CCF A]
-
+- Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023 [CCF A]
 - Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and He Sun, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023 (Under Review)
-
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, He Sun, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Userss", Proc. ICNP'23 (Under Review)
-
 - He Sun, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", VLDB' 2024 (In Submission)
-
 - He Sun, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", WINE' 2023 (Under Review)
-
 ## Journals
 - He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-
 - Yin Xu, Mingjun Xiao, Jie Wu, He Sun, etc. "Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
-
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, He Sun. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice", 2022
 
@@ -53,7 +46,6 @@ Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown
 ## Conferences
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
-
 ## Journals
 - IEEE Transactions on Mobile Computing (TMC): External reviewer
 - IEEE Transactions on Network and Service  Management (TNSM): External reviewer
@@ -77,34 +69,32 @@ Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown
 - Outstanding Winner(No.3) in National College Green Computing Contest-18 (Project Challenge) by CCF, 2018.
 - Third Prize in Math Competition for College Students, 2019. 
 - Third Prize(Top 8) in Imagine Cup 2018 of Microsoft, 2018. 
-- First prize of National High School Mathematics Competition in Shandong Province, 2015.
+- First prize in the National High School Mathematics Competition in Shandong Province, 2015.
 
 # 🎓 Educations
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - now, Ph.D. Student.
+2020.09 - now, Ph.D. Student.
 
-Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
-
-University of Chinese Academy of Sciences, Beijing.
+School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/qdu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate.
+2016.09 - 2020.06, Undergraduate.
 
-College of Computer Science and Technology.
+School of Computer Science and Technology.
 
 Qingdao University (QDU), Qingdao.
 </div>
 </div>
 
 # 💬 Talks
-- *2023.05*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [slides](https://s3.us-west-1.wasabisys.com/duetone/infocom23/slides/bju87igoe8753cwz9a11n-2023-05-04T12%3A52%3A03.266Z.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2CLGNXPK54K0Q8NC0YPX%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230626T054958Z&X-Amz-Expires=300&X-Amz-Signature=0f20a8ff6915b7de296684b692dd73b3fe8f5135bbccaff097ac2fa554c2f204&X-Amz-SignedHeaders=host)
+- *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](https://s3.us-west-1.wasabisys.com/duetone/infocom23/slides/bju87igoe8753cwz9a11n-2023-05-04T12%3A52%3A03.266Z.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2CLGNXPK54K0Q8NC0YPX%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230626T054958Z&X-Amz-Expires=300&X-Amz-Signature=0f20a8ff6915b7de296684b692dd73b3fe8f5135bbccaff097ac2fa554c2f204&X-Amz-SignedHeaders=host)
 
 # 💻 Project
 
