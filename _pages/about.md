@@ -72,6 +72,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 - Shuguang scholarship (2019.10)
 - Outstanding student leaders prize at QDU (2018.10)
 - Outstanding graduate prize at QDU (2020.5)
+
 ## Competitions Awards
 - Second Prize in China software open source innovation competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
 - Outstanding Winner(No.1) in National College Green Computing Contest-19 (Project Challenge) by CCF, 2019.
