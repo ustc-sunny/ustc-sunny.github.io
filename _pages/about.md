@@ -18,64 +18,66 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
+Hi, here. I am He Sun (孙贺), a first-year Ph.D. student in the [Department of Computer Science and Technology](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/cs.ustc.edu.cn) at the [University of Science and Technology of China](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/ustc.edu.cn)(USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with [Jie Wu](https://cis.temple.edu/~wu/)(Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/)(Associate Professor, Soochow University).
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS.), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Sun Yat-sen University, Shenzhen Compus, China),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (postdoc at UCAS) and [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (postdoc at UCAS).
-
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
-
+My research interest includes reinforcement learning (Bandits/MARL etc.), privacy preservation, game theory, and mobile computing (Crowdsensing, UAV data harvest, and data trading). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on mobile computing, etc.
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
-- *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
-- *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship
+- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship
+- [2022.12] 🎉🎉 Two of my authored papers are accepted by IEEE INFOCOM 2023!
 
 # 📝 Publications 
+## Conferences
+- He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023 [CCF A], (Acceptance Rate: 252/1312=19.2%).
+Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023 [CCF A]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and He Sun, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023 (Under Review)
 
-[The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
+- Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, He Sun, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Userss", Proc. ICNP'23 (Under Review)
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
-</div>
-</div>
+- He Sun, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", VLDB' 2024 (In Submission)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021 (Long Talk)</div><img src='images/tpauc_icml21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- He Sun, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", WINE' 2023 (Under Review)
 
-[When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
+## Journals
+- He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 
-Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
-</div>
-</div>
+- Yin Xu, Mingjun Xiao, Jie Wu, He Sun, etc. "Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
 
-- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://arxiv.org/pdf/2210.03967.pdf). Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao** and Qingming Huang. Advances in Neural Information Processing Systems (NeurIPS), 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
+## Book Chapter
+- Mingjun Xiao, Yin Xu, He Sun. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice", 2022
 
-- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://arxiv.org/abs/2206.11655). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2022. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
+# 📖 Professional Services
+## Conferences
+- IEEE INFOCOM 2022 External reviewer
+- IEEE INFOCOM 2023 External reviewer
 
-- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://arxiv.org/abs/2206.12169). Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He and Qingming Huang. International Conference on Machine Learning (**ICML**), 2022. \| [\[Code\]](https://github.com/hhh0hwz/Adauc) \|
-
-- [Rethinking Collaborative Metric Learning: Toward an Efficient Alternative without Negative Sampling](https://arxiv.org/abs/2206.11549). **Shilong Bao**, Qianqian Xu, Zhiyong Yang, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2022. \| [\[Code\]](https://github.com/statusrank/SFCML) \|
-
-- [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
-
-- [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
-
-# 📖 Services
-
-### Conferences
- - *NeurIPS*: PC Member (2023)
- - *AAAI*: PC Member (2023)
- - *ICML*: PC Member (2022)
-
-### Journals
-- IEEE Transactions on Multimedia (T-MM): Reviewer
-- Multimedia Systems: Reviewer
+## Journals
+- IEEE Transactions on Mobile Computing (TMC): External reviewer
+- IEEE Transactions on Network and Service  Management (TNSM): External reviewer
+- Information Science: External reviewer
  
 # 🎖 Honors and Awards
-- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
+## Honors
+- Suzhou Industrial Park Scholarship at USTC (2023.3)
+- "Yang Yuanqing" Scholarship at USTC (2022.12)
+- Second scholarship at USTC (2022.9)
+- First scholarship at USTC (2021.9)
+- Excellent League member at USTC( 2021.4)
+- Second scholarship at USTC (2020.9)
+- 5 times first scholarship at QDU (2016-2020)
+- Shuguang scholarship (2019.10)
+- Outstanding student leaders prize at QDU (2018.10)
+- Outstanding graduate prize at QDU (2020.5)
+## Competitions Awards
+- Second Prize in China software open source innovation competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
+- Outstanding Winner(No.1) in National College Green Computing Contest-19 (Project Challenge) by CCF, 2019.
+- Outstanding Winner(No.3) in National College Green Computing Contest-18 (Project Challenge) by CCF, 2018.
+- Third Prize in Math Competition for College Students, 2019. 
+- Third Prize(Top 8) in Imagine Cup 2018 of Microsoft, 2018. 
+- First prize of National High School Mathematics Competition in Shandong Province, 2015.
 
 # 🎓 Educations
 
