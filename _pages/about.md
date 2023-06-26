@@ -24,9 +24,10 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship
-- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship
-- [2022.12] 🎉🎉 Two of my authored papers are accepted by IEEE INFOCOM 2023!
+- [2023.6] One paper was submitted to IEEE TMC.
+- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
+- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
+- [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
@@ -51,6 +52,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 ## Conferences
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
+
 ## Journals
 - IEEE Transactions on Mobile Computing (TMC): External reviewer
 - IEEE Transactions on Service Computing (TSC): External reviewer
@@ -106,5 +108,7 @@ Qingdao University (QDU), Qingdao.
 
 # 💻 Project
 <span class='anchor' id='-Project'></span>
-- National Innovation and Entrepreneurship Program for College Students in China (The Research and Development of Parking Sharing System in Smart City), 2018.5-2020.5.: Project leader
-- Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: A core member
+- National Innovation and Entrepreneurship Program for College Students in China, The Research and Development of Parking Sharing System in Smart City, 2018.5-2020.5.: **Project leader**
+- Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: **Core member**
+- Project of National Natural Science Foundation of China, Research on Key Technologies of Secure and Trusted Mobile Group Intelligence Sensing Data Trading System, 2019.01-2022.12：**Core member**
+- Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
