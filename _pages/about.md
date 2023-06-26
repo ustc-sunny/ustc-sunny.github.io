@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi, here. I am He Sun (孙贺), a first-year Ph.D. student in the [Department of Computer Science and Technology](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/cs.ustc.edu.cn) at the [University of Science and Technology of China](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/ustc.edu.cn) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi, here. I am He Sun (孙贺), a first-year Ph.D. student in the [Department of Computer Science and Technology](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/cs.ustc.edu.cn) at the [University of Science and Technology of China](https://github.com/ustc-sunny/ustc-sunny.github.io/blob/master/_pages/ustc.edu.cn) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
 My research interest includes reinforcement learning (Bandits/MARL etc.), privacy preservation, game theory, and mobile computing (Crowdsensing, UAV data harvest, and data trading). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on mobile computing, etc.
 
