@@ -50,7 +50,8 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 - IEEE INFOCOM 2023 External reviewer
 ## Journals
 - IEEE Transactions on Mobile Computing (TMC): External reviewer
-- IEEE Transactions on Network and Service  Management (TNSM): External reviewer
+- IEEE Transactions on Service Computing (TSC): External reviewer
+- IEEE Transactions on Network and Service  Management (TNSM): Reviewer
 - Information Science: External reviewer
  
 # 🎖 Honors and Awards
