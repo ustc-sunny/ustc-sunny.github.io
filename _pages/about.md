@@ -23,26 +23,28 @@ Hi, here. I am He Sun (孙贺), a first-year Ph.D. student in the [Department of
 My research interest includes reinforcement learning (Bandits/MARL etc.), privacy preservation, game theory, and mobile computing (Crowdsensing, UAV data harvest, and data trading). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on mobile computing, etc.
 
 # 🔥 News
-
+<span class='anchor' id='-news'></span>
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship
 - [2022.12] 🎉🎉 Two of my authored papers are accepted by IEEE INFOCOM 2023!
 
 # 📝 Publications 
+<span class='anchor' id='-publications'></span>
 ## Conferences
-- He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023 [CCF A], (Acceptance Rate: 252/1312=19.2%).
-- Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, He Sun ""Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023 [CCF A]
-- Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and He Sun, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023 (Under Review)
-- Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, He Sun, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Userss", Proc. ICNP'23 (Under Review)
-- He Sun, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", VLDB' 2024 (In Submission)
-- He Sun, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", WINE' 2023 (Under Review)
+- **[INFOCOM'23]** **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%).
+- **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023
+- Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023 (Under Review)
+- Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Userss", Proc. ICNP'23 (Under Review)
+- **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", VLDB' 2024 (In Submission)
+- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", WINE' 2023 (Under Review)
 ## Journals
-- He Sun, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-- Yin Xu, Mingjun Xiao, Jie Wu, He Sun, etc. "Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
+- **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
+- Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**, etc. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
 ## Book Chapter
-- Mingjun Xiao, Yin Xu, He Sun. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice", 2022
+- Mingjun Xiao, Yin Xu, **He Sun**. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice" by Jie Wu, 2022
 
 # 📖 Professional Services
+<span class='anchor' id='-services'></span>
 ## Conferences
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
@@ -52,6 +54,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 - Information Science: External reviewer
  
 # 🎖 Honors and Awards
+<span class='anchor' id='-honors-and-awards'></span>
 ## Honors
 - Suzhou Industrial Park Scholarship at USTC (2023.3)
 - "Yang Yuanqing" Scholarship at USTC (2022.12)
@@ -72,7 +75,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 - First prize in the National High School Mathematics Competition in Shandong Province, 2015.
 
 # 🎓 Educations
-
+<span class='anchor' id='-educations'></span>
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -94,23 +97,10 @@ Qingdao University (QDU), Qingdao.
 </div>
 
 # 💬 Talks
+<span class='anchor' id='-invited-talks'></span>
 - *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](https://s3.us-west-1.wasabisys.com/duetone/infocom23/slides/bju87igoe8753cwz9a11n-2023-05-04T12%3A52%3A03.266Z.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2CLGNXPK54K0Q8NC0YPX%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230626T054958Z&X-Amz-Expires=300&X-Amz-Signature=0f20a8ff6915b7de296684b692dd73b3fe8f5135bbccaff097ac2fa554c2f204&X-Amz-SignedHeaders=host)
 
 # 💻 Project
-
-<!-- <div class='school-box'>
-<div><img src='images/Xcurve.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1"> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/Xcurve.png' alt="sym" width="120%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
-
-- XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback!
-</div>
-</div>
-
-<!-- - *2020.02 - 至今*: &nbsp; As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
-
-XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
+<span class='anchor' id='-Project'></span>
+- National Innovation and Entrepreneurship Program for College Students in China (The Research and Development of Parking Sharing System in Smart City), 2018.5-2020.5.: Project leader
+- Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: A core member
