@@ -104,7 +104,7 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Talks
 <span class='anchor' id='-invited-talks'></span>
-- *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](docs/INFOCOM23-slide.pdf)
+- *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 
 # 💻 Project
 <span class='anchor' id='-Project'></span>
