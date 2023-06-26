@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shilong Bao"
-  avatar           : "images/shilong.jpg"
-  bio              : "PhD. student of Institute of Information Engineering (IIE), CAS"
-  location         : "Beijing, China"
+  name             : "He Sun"
+  avatar           : "images/hesun.jpg"
+  bio              : "Ph.D. student of Computer Science, USTC"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=5ZCgkQkAAAAJ&hl=zh-CN"
-  email            : "baoshilong@iie.ac.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Shilong-Bao/research"
+  googlescholar    : "https://scholar.google.com/citations?user=K_d_uY0AAAAJ&hl=en"
+  email            : "hesun@mail.ustc.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/He-Sun-31/research?ev=prf_act"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : statusrank
+  github           : ustc-sunny
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0246.html"
+  dblp             : ""
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
