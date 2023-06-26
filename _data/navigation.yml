@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
   
   - title: "Professional Services"
-  - url: "/#-services"
+    url: "/#-services"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
