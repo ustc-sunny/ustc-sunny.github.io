@@ -86,9 +86,18 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020.09 - now, Ph.D. Student.
+2022.09 - now, Ph.D. Student.
 
 School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/ustc.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2020.09 - 2022.6, Master Student.
+
+School of Cyberspace Security, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
 </div>
 
