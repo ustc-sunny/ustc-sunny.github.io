@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shilong Bao"
+title                    : "He Sun"
 description              : ""
-repository               : "statusrank/statusrank.github.io"
+repository               : "github.com/ustc-sunny/ustc-sunny.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
