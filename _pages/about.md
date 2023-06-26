@@ -94,10 +94,8 @@ School of Computer Science and Technology, University of Science and Technology 
 <div class='school-box'>
 <div><img src='images/qdu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2016.09 - 2020.06, B.S.
-School of Computer Science and Technology.
-2017.09 - 2020.06, B.A.
-School of Foreign Languages.
+2016.09 - 2020.06, B.S. School of Computer Science and Technology.<br>
+2017.09 - 2020.06, B.A. School of Foreign Languages.
 
 Qingdao University (QDU), Qingdao.
 </div>
