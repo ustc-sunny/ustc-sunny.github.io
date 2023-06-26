@@ -31,7 +31,6 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
-
 ## Conferences
 - **[INFOCOM'23]** **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%).
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023
