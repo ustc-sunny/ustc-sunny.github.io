@@ -31,7 +31,6 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
-
 ## Conferences
 - **[INFOCOM'23]** **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%).
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023
@@ -49,7 +48,6 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
-
 ## Conferences
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
@@ -106,7 +104,7 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Talks
 <span class='anchor' id='-invited-talks'></span>
-- *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](https://s3.us-west-1.wasabisys.com/duetone/infocom23/slides/bju87igoe8753cwz9a11n-2023-05-04T12%3A52%3A03.266Z.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2CLGNXPK54K0Q8NC0YPX%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230626T054958Z&X-Amz-Expires=300&X-Amz-Signature=0f20a8ff6915b7de296684b692dd73b3fe8f5135bbccaff097ac2fa554c2f204&X-Amz-SignedHeaders=host)
+- *2023.05*: &nbsp; IEEE INFOCOM 2023. [slides](docs/INFOCOM23-slide.pdf)
 
 # 💻 Project
 <span class='anchor' id='-Project'></span>
