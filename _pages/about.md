@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "He Sun - Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -103,8 +103,8 @@ Qingdao University (QDU), Qingdao.
 </div>
 </div>
 
-# 💬 Invited Talks
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+# 💬 Talks
+- *2023.05*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [slides](https://s3.us-west-1.wasabisys.com/duetone/infocom23/slides/bju87igoe8753cwz9a11n-2023-05-04T12%3A52%3A03.266Z.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2CLGNXPK54K0Q8NC0YPX%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230626T054958Z&X-Amz-Expires=300&X-Amz-Signature=0f20a8ff6915b7de296684b692dd73b3fe8f5135bbccaff097ac2fa554c2f204&X-Amz-SignedHeaders=host)
 
 # 💻 Project
 
