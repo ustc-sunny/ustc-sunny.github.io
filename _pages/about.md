@@ -30,6 +30,7 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
+
 ## Conferences
 - **[INFOCOM'23]** **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%).
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023
@@ -37,9 +38,11 @@ My research interest includes reinforcement learning (Bandits/MARL etc.), privac
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Userss", Proc. ICNP'23 (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", VLDB' 2024 (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", WINE' 2023 (Under Review)
+
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**, etc. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
+
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, **He Sun**. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice" by Jie Wu, 2022
 
