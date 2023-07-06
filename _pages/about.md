@@ -113,7 +113,7 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Talks
 <span class='anchor' id='-invited-talks'></span>
-- *2023.05*: &nbsp; IEEE INFOCOM 2023， 17-20 May, Stevens Institute of Technology, New York Area. [slides](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
+- *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. [slides](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 
 # 💻 Project
 <span class='anchor' id='-Project'></span>
