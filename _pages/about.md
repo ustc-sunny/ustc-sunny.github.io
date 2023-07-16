@@ -37,7 +37,7 @@ My research interests include reinforcement learning (Bandits/MARL etc.), privac
 - **[MASS'23]** Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICNP'23 (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", Ubicomp' 2024 (In Submission)
-- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", AAAI' 2024 （In Submission）
+- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", AAAI' 2024 (In Submission)
 
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
