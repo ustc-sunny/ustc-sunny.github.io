@@ -44,7 +44,7 @@ My research interests include reinforcement learning (Bandits/MARL etc.), privac
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**, etc. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
 
 ## Book Chapter
-- Mingjun Xiao, Yin Xu, **He Sun**. "Unknown Worker Recruitment in Mobile Crowdsourcing" in "Advances in Mobile Crowdsourcing: From Theory to Practice" by Jie Wu, 2022
+- Mingjun Xiao, Yin Xu, **He Sun**. "Unknown Worker Recruitment in Mobile Crowdsourcing" in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2022
 
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
