@@ -36,6 +36,7 @@ My research interests include reinforcement learning (Bandits/MARL etc.), privac
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023
 - **[MASS'23]** Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICNP'23 (Under Review)
+- Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", IEEE INFOCOM'24 (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", Ubicomp' 2024 (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", AAAI' 2024 (In Submission)
 
