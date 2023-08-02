@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi, there. I am He Sun (孙贺), a first-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
-
+**I am looking for opportunities for overseas Research assistant in 2024 and overseas postdoctoral candidates in 2025. If you are interested in my research, you can contact me** 
 My research interests include reinforcement learning (Bandits/MARL etc.), privacy preservation, game theory, and mobile computing (Crowdsensing, UAV data harvest, and data trading). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
 # 🔥 News
@@ -87,7 +87,7 @@ My research interests include reinforcement learning (Bandits/MARL etc.), privac
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.09 - now, Ph.D. Student.
+2022.09 - 2025.06 (Expected), Ph.D. Student.
 
 School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
