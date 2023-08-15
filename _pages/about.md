@@ -39,12 +39,12 @@ My research interests include reinforcement learning (Bandits/MARL etc.), privac
 - **[MASS'23]** Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICNP'23 (Under Review)
 - Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", IEEE INFOCOM'24 (Under Review)
-- **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", Ubicomp' 2024 (In Submission)
-- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", AAAI' 2024 (In Submission)
+- **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", ACM Ubicomp' 2024 (In Submission)
+- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", ACM WWW' 2024 (In Submission)
 
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-- Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**, etc. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
+- Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under review)
 
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, **He Sun**. ["Unknown Worker Recruitment in Mobile Crowdsourcing"](https://link.springer.com/chapter/10.1007/978-3-031-32397-3_3) in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2023, (Part of the Wireless Networks book series)
