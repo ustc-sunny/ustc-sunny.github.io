@@ -22,11 +22,10 @@ Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department 
 
 My research interests include mobile computing systems (e.g., Crowdsensing, UAV data collection, and data trading), reinforcement learning (Bandits/MARL, etc.), privacy preservation, and game theory. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
-**I am looking for opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please contact me.** 
+**I am seeking opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me.** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2023.6] One paper was submitted to IEEE TMC.
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
 - [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
@@ -37,14 +36,14 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 - **[INFOCOM'23]** **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
 - **[MASS'23]** Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
-- Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICNP'23 (Under Review)
+- Jinbo Cai, Mingjun Xiao, Yu Zhu, Junjie Shao, **He Sun**, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23 (Under Review)
 - Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", IEEE INFOCOM'24 (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", ACM Ubicomp' 2024 (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", ACM WWW' 2024 (In Submission)
 
 ## Journals
-- **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Minor Revision)
-- Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Major Revision)
+- **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
+- Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under Review)
 
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, **He Sun**. ["Unknown Worker Recruitment in Mobile Crowdsourcing"](https://link.springer.com/chapter/10.1007/978-3-031-32397-3_3) in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2023, (Part of the Wireless Networks book series)
