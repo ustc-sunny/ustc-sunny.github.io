@@ -38,9 +38,9 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 - **[INFOCOM'23]** Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
 - **[MASS'23]** Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, **He Sun**, Junjie Shao, Yu Zhao. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23 (Under Review)
-- Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", IEEE INFOCOM'24 (Under Review)
-- **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", ACM Ubicomp' 2024 (In Submission)
-- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", ACM WWW' 2024 (In Submission)
+- Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", (Under Review)
+- **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", (In Submission)
+- **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", (In Submission)
 
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
