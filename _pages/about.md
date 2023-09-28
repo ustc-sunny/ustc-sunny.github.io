@@ -26,6 +26,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!!
 - [2023.5] 🎉🎉 One paper was submitted to TMC.
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
@@ -36,7 +37,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 ## Conferences
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[Best Paper Award]</b></a>
 - Jinbo Cai, Mingjun Xiao, Yu Zhu, **He Sun**, Junjie Shao, Yu Zhao. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23 (Under Review)
 - Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", (In Submission)
