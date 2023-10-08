@@ -26,7 +26,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!!
+- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
 - [2023.5] 🎉🎉 One paper was submitted to TMC.
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
