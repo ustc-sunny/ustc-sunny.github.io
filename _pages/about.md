@@ -38,13 +38,14 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**)
-- Jinbo Cai, Mingjun Xiao, Yu Zhu, **He Sun**, Junjie Shao, Yu Zhao. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23 (Under Review)
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, Yu Zhu, **He Sun**, Junjie Shao, Yu Zhao. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23
 - Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", (In Submission)
 
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
+- Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under Review)
 
 ## Book Chapter
