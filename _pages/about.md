@@ -67,15 +67,11 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors
-- First scholarship at USTC (2023.9)
 - Suzhou Industrial Park Scholarship at USTC (2023.3)
 - "Yang Yuanqing" Scholarship at USTC (2022.12)
-- Second scholarship at USTC (2022.9)
-- First scholarship at USTC (2021.9)
 - Excellent League member at USTC( 2021.4)
-- Second scholarship at USTC (2020.9)
-- 5 times first scholarship at QDU (2016-2020)
-- Shuguang scholarship (2019.10)
+- 5 times first-class scholarship at QDU (2016-2020)
+- "Shuguang" scholarship (2019.10)
 - Outstanding student leaders prize at QDU (2018.10)
 - Outstanding graduate prize at QDU (2020.5)
 
