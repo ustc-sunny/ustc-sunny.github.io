@@ -47,7 +47,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, UAV 
 
 ## Journals
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-- **He Sun**, Mingjun Xiao, Jinbo Cai, Junjie Shao, Yu Zhao. "Mobile Video Streaming Inference for Edge Caching: From Theory to Application", Science China Information Science, 2024
+- **He Sun**, Mingjun Xiao, Jinbo Cai, Junjie Shao, Yu Zhao. "Mobile Video Streaming Inference for Edge Caching: From Theory to Application", Science China Information Science, 2024 (Under Review)
 - Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under Review)
 
