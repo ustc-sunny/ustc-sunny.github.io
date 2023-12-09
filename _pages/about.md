@@ -22,6 +22,8 @@ Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department 
 
 My research interests include mobile computing systems (e.g., Crowdsensing, UAV data collection, and data trading), reinforcement learning (Bandits/MARL, etc.), privacy preservation, and game theory. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
+**Stay hangry and stay foolish.**
+
 **I am seeking opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me.** 
 
 # 🔥 News
