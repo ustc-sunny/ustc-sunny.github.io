@@ -18,9 +18,9 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Inistitute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligenceat](http://cogskl.iflytek.com/) the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include mobile computing systems (e.g., Crowdsensing, UAV data collection, and data trading), reinforcement learning (Bandits/MARL, etc.), privacy preservation, and game theory. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
+My research interests include Mobile Computing & HCI Systems (e.g., Crowdsensing, UAV applications, and data trading), reinforcement learning (Bandits/MARL, etc.), privacy preservation, and game theory. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
 **Stay hangry and stay foolish.**
 
