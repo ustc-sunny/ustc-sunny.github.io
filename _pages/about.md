@@ -46,6 +46,7 @@ My research interests include Mobile Computing & HCI Systems (e.g., Crowdsensing
 - Yin Xu, Xichong Zhang, Mingjun Xiao, Jie Wu, Sheng Zhang, **He Sun**, "A Mean-Field-Game-Theoretic Analysis of Joint Mobile Edge Caching and Pricing", (Under Review)
 - Datian Li, Mingjun Xiao, Yin Xu, **He Sun**, and Jie Wu, "Optimizing Data-Driven Federated Learning in UAV Networks", (Under Review)
 - Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, "ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles", (Under Review)
+- Xinwei Huang, Mingjun Xiao, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan. Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers, (Under Review)
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", (In Submission)
 
@@ -72,7 +73,7 @@ My research interests include Mobile Computing & HCI Systems (e.g., Crowdsensing
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Network and Service  Management (TNSM)
 * External reviewer:
-  _ IEEE Transactions on Networking (ToN)
+  - IEEE Transactions on Networking (ToN)
   - IEEE Transactions on Service Computing (TSC)
   - IEEE Transactions on Big Data (TBD)
   - Information Science (InfoSci)
