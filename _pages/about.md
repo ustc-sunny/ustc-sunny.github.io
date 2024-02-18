@@ -68,10 +68,14 @@ My research interests include Mobile Computing & HCI Systems (e.g., Crowdsensing
 - IEEE INFOCOM 2023 External reviewer
 
 ## Journals
-- IEEE Transactions on Mobile Computing (TMC): External reviewer
-- IEEE Transactions on Service Computing (TSC): External reviewer
-- IEEE Transactions on Network and Service  Management (TNSM): Reviewer
-- Information Science: External reviewer
+* Reviewer:
+  - IEEE Transactions on Mobile Computing (TMC)
+  - IEEE Transactions on Network and Service  Management (TNSM)
+* External reviewer:
+  _ IEEE Transactions on Networking (ToN)
+  - IEEE Transactions on Service Computing (TSC)
+  - IEEE Transactions on Big Data (TBD)
+  - Information Science (InfoSci)
  
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
