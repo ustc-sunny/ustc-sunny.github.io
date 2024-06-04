@@ -24,7 +24,7 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 
 **Stay hungry and stay foolish.**
 
-**I am seeking opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me.** 
+**I am seeking opportunities for overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
