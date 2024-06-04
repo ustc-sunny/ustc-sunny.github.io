@@ -24,7 +24,7 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 
 **Stay hungry and stay foolish.**
 
-**I am seeking opportunities for overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
+**I am seeking opportunities for overseas Postdoctoral Researcher in 2025 or 2026. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
@@ -103,7 +103,7 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.09 - 2025.06 (Expected), Ph.D. Student.
+2022.09 - Now, Ph.D. Student.
 
 School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
