@@ -72,7 +72,7 @@ State key laboratory in the Internet of Things for smart city, University of Mac
 </div>
 
 <div class='school-box'>
-<div><img src='../ßimages/ustc.png' alt="sym" width="80"></div>
+<div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2021.09 - now, Research Assistant.
 
