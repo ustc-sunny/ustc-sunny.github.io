@@ -63,7 +63,7 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 # 📝 Experiences 
 <span class='anchor' id='-experiences'></span>
 <div class='school-box'>
-<div><img src='images/iotsc.png' alt="sym" width="160"></div>
+<div><img src='images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024.08 - Now, Research Assistant.
 
