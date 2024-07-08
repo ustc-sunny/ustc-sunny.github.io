@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Inistitute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligenceat](http://cogskl.iflytek.com/) the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
+Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Inistitute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
 
 My research interests include Mobile Computing & ML Systems (e.g., Data Trading, On-device Learning, and Connected Vehicle etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
@@ -57,9 +57,28 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 - Junjie Shao, Yu Zhao, **He Sun**, Jinbo Cai, Jie Wu, Mingjun Xiao. "Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit", IEEE Transactions on Services Computing, 2024 (Under Review)
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under Review)
 
-
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, **He Sun**. ["Unknown Worker Recruitment in Mobile Crowdsourcing"](https://link.springer.com/chapter/10.1007/978-3-031-32397-3_3) in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2023, (Part of the Wireless Networks book series)
+
+# 📝 Experiences 
+<span class='anchor' id='-experiences'></span>
+<div class='school-box'>
+<div><img src='images/iotsc.png' alt="sym" width="160"></div>
+<div class='school-box-text' markdown="1">
+2024.08 - Now, Research Assistant.
+
+State key laboratory in the Internet of Things for smart city, University of Macau, Macau, China.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/ustc.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2021.09 - now, Research Assistant.
+
+School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
+</div>
+</div>
 
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
