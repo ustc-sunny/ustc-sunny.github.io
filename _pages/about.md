@@ -18,9 +18,9 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Inistitute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
+Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
 
-My research interests include Mobile Computing & ML Systems (e.g., Data Trading, On-device Learning, and Connected Vehicle etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
+My research interests include Mobile Computing & ML Systems (e.g., Data Trading, On-device Learning, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
 
 **Stay hungry and stay foolish.**
 
@@ -28,11 +28,11 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+
+- [2024.8] Join the State ey Laboratory in the Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
 - [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
-- [2023.10] One paper was submitted to TMC.
 - [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
-- [2023.5] One paper was submitted to TMC.
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
 - [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
@@ -67,16 +67,16 @@ My research interests include Mobile Computing & ML Systems (e.g., Data Trading,
 <div class='school-box-text' markdown="1">
 2024.08 - Now, Research Assistant.
 
-State key laboratory in the Internet of Things for smart city, University of Macau, Macau, China.
+State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.09 - now, Research Assistant.
+2021.09 - Now, Research Assistant.
 
-School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
+School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Hefei, China.
 </div>
 </div>
 
