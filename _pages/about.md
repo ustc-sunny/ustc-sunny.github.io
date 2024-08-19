@@ -65,7 +65,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024.08 - Now, Research Assistant supervised by [Li Li](https://www.fst.um.edu.mo/personal/llili/).
+2024.08 - Now a Research Assistant supervised by [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
@@ -74,9 +74,9 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.09 - Now, Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+2021.09 - Now, a Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 
-School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Hefei, China.
+School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.
 </div>
 </div>
 
