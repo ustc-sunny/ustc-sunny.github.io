@@ -74,9 +74,9 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.09 - Now, a Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+2022.07 - Now, a Research Assistant (Ph.D. student) supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 
-School of Computer Science and Technology/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.
+School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.
 </div>
 </div>
 
@@ -121,7 +121,7 @@ School of Computer Science and Technology/State Key Laboratory of Cognitive Inte
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.09 - Now, Ph.D. Student.
+2022.07 - Now, Ph.D. Student.
 
 School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
