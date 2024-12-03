@@ -29,7 +29,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- [2024.8] Join the State Key Laboratory in the Internet of Things for Smart City as Research Assistant.
+- [2024.9] Join the State Key Laboratory in the Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
 - [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
 - [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
