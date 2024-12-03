@@ -20,11 +20,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there. I am He Sun (孙贺), a third-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
 
-My research interests include Mobile Computing & ML Systems (e.g., On-device Training/Tuning of LLM, Data Trading, Data Sensing, Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc.
+My research interests include Mobile Computing & ML Systems (e.g., On-device Training/Tuning of LLM, LLM Inference On Mobile/Edge Devices, Data Trading, Data Sensing, Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc.
 
 **Stay hungry and stay foolish.**
 
-**I am seeking opportunities for overseas Postdoctoral Researcher in 2025 or 2026. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
+**I am seeking opportunities for overseas Postdoctoral Researcher in 2026. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
