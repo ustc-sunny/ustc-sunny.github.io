@@ -65,7 +65,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024.08 - Now a Research Assistant supervised by [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
+2024.09 - Now a Research Assistant supervised by [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
