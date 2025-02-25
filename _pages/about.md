@@ -29,6 +29,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- [2025.2] Invited as An Eurosys 2025 Artifact Evaluation Committee
 - [2024.9] Join the State Key Laboratory in the Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
 - [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
@@ -83,6 +84,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
 ## Conferences
+- Eurosys 2025 Artifact Evaluation Committee
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
 
