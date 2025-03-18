@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
+# About Me (Updated in 2025.2)
 
 <span class='anchor' id='about-me'></span>
 Hi, there. I am He Sun (孙贺), a third-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
@@ -45,8 +45,9 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Arxiv'25 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
   
 ## Conferences
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]]
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDCS'24]</b></a> Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, "ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles", ICDCS'24
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
+(https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)
