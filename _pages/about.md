@@ -57,9 +57,9 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <!-- 更多内容 -->
 <div id="more-content" style="display: none;">
     <ul>
-        <li>**He Sun**, Junyuan Mao, Jinrui Zhou, Mingjun Xiao. "ReSmart: Distributed Stable Task Matching in Non-stationary Environment", VLDB 25‘ (On Submission)</li>
-        <li>**He Sun**, Xihao Sun, Li Li, Yebo Wu, Mingjun Xiao, Chengzhong Xu. "LongInfer: Exploring Fast Inference of Long-Context Large Language Models on a Consumer-grade GPU." (On Submission)</li>
-        <li>He Sun, Li Li, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Split Federated Tuning for Long-Context Large Language Models." (On Submission)</li>
+        <li><b>He Sun</b>, Junyuan Mao, Jinrui Zhou, Mingjun Xiao. "ReSmart: Distributed Stable Task Matching in Non-stationary Environment", VLDB 25‘ (On Submission)</li>
+        <li><b>He Sun</b>, Xihao Sun, Li Li, Yebo Wu, Mingjun Xiao, Chengzhong Xu. "LongInfer: Exploring Fast Inference of Long-Context Large Language Models on a Consumer-grade GPU." (On Submission)</li>
+        <li><b>He Sun</b>, Li Li, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Split Federated Tuning for Long-Context Large Language Models." (On Submission)</li>
     </ul>
 </div>
 
