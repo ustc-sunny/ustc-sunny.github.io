@@ -120,7 +120,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
 ## Conferences
-- Eurosys 2025 Artifact Evaluation Committee
+- Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - IEEE INFOCOM 2022 External reviewer
 - IEEE INFOCOM 2023 External reviewer
 
