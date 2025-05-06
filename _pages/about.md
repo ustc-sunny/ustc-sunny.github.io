@@ -153,7 +153,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 - Third Prize in Math Competition for College Students, 2019. 
 - Third Prize(Top 8) in Imagine Cup 2018 of Microsoft, 2018. 
 - First prize in the National High School Mathematics Competition in Shandong Province, 2015.
-
+<!--
 # 🎓 Educations
 <span class='anchor' id='-educations'></span>
 <div class='school-box'>
@@ -183,7 +183,7 @@ School of Cyberspace Security, University of Science and Technology of China (CS
 Qingdao University (QDU), Qingdao.
 </div>
 </div>
-
+-->
 # 💬 Talks
 <span class='anchor' id='-invited-talks'></span>
 - *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. [slides](https://ustc-sunny.github.io/INFOCOM2023_slides.pdf)
