@@ -51,13 +51,13 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
-
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[Under Review]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Long-Context LLM Inference on a Commodity GPU with Adaptive KV Management",2025 </span>
 {% raw %}
+
 <!-- 更多内容 -->
 <div id="more-content" style="display: none;">
     <ul>
         <li><b>He Sun</b>, Junyuan Mao, Jinrui Zhou, Mingjun Xiao. "ReSmart: Distributed Stable Task Matching in Non-stationary Environment", VLDB 25‘ (On Submission)</li>
-        <li><b>He Sun</b>, Li Li, Yebo Wu, Mingjun Xiao, Chengzhong Xu. "LongInfer: Exploring Fast Inference of Long-Context Large Language Models on a Consumer-grade GPU." (On Submission)</li>
         <li><b>He Sun</b>, Li Li, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Split Federated Tuning for Long-Context Large Language Models." (On Submission)</li>
     </ul>
 </div>
