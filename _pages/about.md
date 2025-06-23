@@ -55,7 +55,9 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
 - <b>[Under Review]</b> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Long-Context LLM Inference on a Commodity GPU with Adaptive KV Management",2025 
 {% raw %}
+<!--
 - <b>[Under Review]</b> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", 2025
+-->
 
 <!-- 更多内容 -->
 <div id="more-content" style="display: none;">
