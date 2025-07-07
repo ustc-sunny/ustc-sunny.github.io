@@ -60,17 +60,17 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - <b>[Under Review]</b> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", 2025
 -->
 
-<!-- 更多内容 -->
+<!-- 更多内容 
 <div id="more-content" style="display: none;">
     <ul>
         <li><b>He Sun</b>, Li Li, Zijie Lin, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Federated Fine-Tuning for Long-Context Large Language Models." (On Submission)</li>
         <li><b>He Sun</b>, Li Li, Jinrui Zhou, Mingjun Xiao, Jie Wu. "Efficient Split Federated Fine-Tuning with ZOO for Long-Context Large Language Models." (On Submission)</li>
     </ul>
 </div>
-
-<!-- More按钮 -->
+-->
+<!-- More按钮 
 <p class="more-button" onclick="toggleMore()">More...</p>
-
+-->
 <script>
     function toggleMore() {
         var moreContent = document.getElementById("more-content");
