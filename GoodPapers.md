@@ -1,6 +1,6 @@
-# Some Good Papers about System for AI (LLM, DNN, etc)
+# Some Good Papers about Systems for AI (LLM, DNN, etc)
 
-## OSDI 25'
+## OSDI 2025
 * [PipeThreader: Software-Defined Pipelining for Efficient DNN Execution](https://www.usenix.org/conference/osdi25/presentation/cheng)
 * [Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD](https://www.usenix.org/conference/osdi25/presentation/guo)
 * [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he)
@@ -12,7 +12,7 @@
 * [BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching](https://www.usenix.org/conference/osdi25/presentation/zhang-dingyan)
 * [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan)
 
-## ISCA 25'
+## ISCA 2025
 * [H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference](https://dl.acm.org/doi/10.1145/3695053.3731008)
 * [LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference](https://dl.acm.org/doi/10.1145/3695053.3731057)
 * [WSC-LLM: Efficient LLM Service and Architecture Co-exploration for Wafer-scale Chips](https://dl.acm.org/doi/10.1145/3695053.3731101)
@@ -39,7 +39,7 @@
 * [Folded Banks: 3D-Stacked HBM Design for Fine-Grained Random-Access Bandwidth](https://dl.acm.org/doi/pdf/10.1145/3695053.3731111)
 * [BingoGCN: Towards Scalable and Efficient GNN Acceleration with Fine-Grained Partitioning and SLT](https://dl.acm.org/doi/pdf/10.1145/3695053.3731115)
 
-## ATC 25'
+## ATC 2025
 * [Jenga: Enhancing LLM Long-Context Fine-tuning with Contextual Token Sparsity](https://www.usenix.org/system/files/atc25-wang-tuowei.pdf)
 * [Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation](https://www.usenix.org/system/files/atc25-feng.pdf)
 * [WEAVER: Efficient Multi-LLM Serving with Attention Offloading](https://www.usenix.org/system/files/atc25-gao.pdf)
@@ -51,18 +51,18 @@
 * [QFactory: Accelerating Quantized Large Language Model Serving with Qtile Graphs](https://www.usenix.org/system/files/atc25-zhang-qihao.pdf)
 * [Obscura: Concealing Recomputation Overhead in Training of Large Language Models with Bubble-filling Pipeline Transformation](https://www.usenix.org/system/files/atc25-huang-yuzhou.pdf)
 * [Resource Multiplexing in Tuning and Serving Large Language Models](https://www.usenix.org/system/files/atc25-he-yongjun.pdf)
-* [KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provide](https://www.usenix.org/system/files/atc25-wang-jiahao.pdf)
+* [KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider](https://www.usenix.org/system/files/atc25-wang-jiahao.pdf)
 * [LogCrisp: Fast Aggregated Analysis on Large-scale Compressed Logs by Enabling Two-Phase Pattern Extraction and Vectorized Queries](https://www.usenix.org/system/files/atc25-wei.pdf)
 * [SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System](https://www.usenix.org/system/files/atc25-gan.pdf)
 
-## HPCA 25'
+## HPCA 2025
 * [BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration](https://arxiv.org/abs/2411.11745)
-* [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type](https://arxiv.org/abs/2502.18755)
+* [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type(https://arxiv.org/abs/2502.18755)
 * [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741)
-* [throttLL’eM: Predictive GPU Throttling for Energy Efficient LLM Inference Serving](https://ieeexplore.ieee.org/document/10946751)
+* [throttLLeM: Predictive GPU Throttling for Energy Efficient LLM Inference Serving](https://ieeexplore.ieee.org/document/10946751)
 * [Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format](https://arxiv.org/abs/2411.15982)
 * [LAD: Efficient Accelerator for Generative Inference of LLM with Locality Aware Decoding](https://ieeexplore.ieee.org/abstract/document/10946807/)
-* [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://ieeexplore.ieee.org/document/10946800/)
+* [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference] (https://ieeexplore.ieee.org/document/10946800/)
 * [InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](https://ieeexplore.ieee.org/document/10946721)
 * [PAISE: PIM-Accelerated Inference Scheduling Engine for Transformer-based LLM](https://ieeexplore.ieee.org/document/10946299/)
 * [FACIL: Flexible DRAM Address Mapping for SoC-PIM Cooperative On-device LLM Inference](https://ieeexplore.ieee.org/abstract/document/10946824)
