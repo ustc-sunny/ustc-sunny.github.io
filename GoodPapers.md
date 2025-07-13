@@ -57,12 +57,12 @@
 
 ## HPCA 2025
 * [BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration](https://arxiv.org/abs/2411.11745)
-* [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type(https://arxiv.org/abs/2502.18755)
+* [MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type](https://arxiv.org/abs/2502.18755)
 * [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741)
 * [throttLLeM: Predictive GPU Throttling for Energy Efficient LLM Inference Serving](https://ieeexplore.ieee.org/document/10946751)
 * [Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format](https://arxiv.org/abs/2411.15982)
 * [LAD: Efficient Accelerator for Generative Inference of LLM with Locality Aware Decoding](https://ieeexplore.ieee.org/abstract/document/10946807/)
-* [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference] (https://ieeexplore.ieee.org/document/10946800/)
+* [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://ieeexplore.ieee.org/document/10946800/)
 * [InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](https://ieeexplore.ieee.org/document/10946721)
 * [PAISE: PIM-Accelerated Inference Scheduling Engine for Transformer-based LLM](https://ieeexplore.ieee.org/document/10946299/)
 * [FACIL: Flexible DRAM Address Mapping for SoC-PIM Cooperative On-device LLM Inference](https://ieeexplore.ieee.org/abstract/document/10946824)
