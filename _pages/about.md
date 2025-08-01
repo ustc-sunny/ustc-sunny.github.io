@@ -48,14 +48,19 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - <span style="font-family: Arial; font-size:medium;">Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2504.20115?)<b> [Under Review]</b></span>
 - <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, **He Sun**, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)<b> [Under Review]</b></span>
   
-## Conferences
+## Conferences and Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[VLDB'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "LongInfer: Efficient Long-Context LLM Inference with Adaptive KV Data Management on a Commodity GPU", International Conference on Very Large Data Bases 2026. (Under Review)
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'24]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594) 
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2024
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[JCST'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Chen Wu, Jinrui Zhou, and **He Sun**. "Age-of-Information-Aware Federated Learning", Journal of Computer Science and Technology, 2024
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDCS'24]</b></a> Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, "ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles", ICDCS'24</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TSC]</b></a> Junjie Shao, Yu Zhao, **He Sun**, Jinbo Cai, Jie Wu, Mingjun Xiao. "Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit", IEEE Transactions on Services Computing, 2024 (Under Review)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TMC]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 {% raw %}
 <!--
 - <b>[Under Review]</b> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", 2025
@@ -93,12 +98,8 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 </script>
 {% endraw %}
 
-## Journals
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'24]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594) 
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2024
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[JCST'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Chen Wu, Jinrui Zhou, and **He Sun**. "Age-of-Information-Aware Federated Learning", Journal of Computer Science and Technology, 2024
-- Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-- Junjie Shao, Yu Zhao, **He Sun**, Jinbo Cai, Jie Wu, Mingjun Xiao. "Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit", IEEE Transactions on Services Computing, 2024 (Under Review)
+
+
 
 
 ## Book Chapter
