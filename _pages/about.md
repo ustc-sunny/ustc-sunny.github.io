@@ -42,7 +42,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <span class='anchor' id='-publications'></span>
 
 ## Preprint
-- <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/pdf/2506.20187)</span>
+- <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/pdf/2506.20187) (Related version is accepted by Eurosys 2026' Shadow PC)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Junyuan Mao, Mingjun Xiao, Jie Wu, "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", Arxiv' 25 </span>
 - <span style="font-family: Arial; font-size:medium;">Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Arxiv' 25 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning) </span>
 - <span style="font-family: Arial; font-size:medium;">Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2504.20115?) </span>
