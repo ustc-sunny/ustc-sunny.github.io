@@ -29,7 +29,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- [2025.10] Serve as a Shadow PC of Eurosys 2026.
+- [2025.10] Serve as a Shadow PC of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - [2024.9] Join the State Key Laboratory in the Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
@@ -43,7 +43,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <span class='anchor' id='-publications'></span>
 
 ## Preprint
-- <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/pdf/2506.20187) (Related version is accepted by the Shadow PC of Eurosys 2026)</span>
+- <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/pdf/2506.20187) (Related version is accepted by the Shadow PC of Eurosys 2026 Spring)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Junyuan Mao, Mingjun Xiao, "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", Arxiv' 25 </span>
 - <span style="font-family: Arial; font-size:medium;">Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Arxiv' 25 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning) </span>
 - <span style="font-family: Arial; font-size:medium;">Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2504.20115?) </span>
