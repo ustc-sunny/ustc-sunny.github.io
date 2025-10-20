@@ -74,6 +74,8 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
        </li>
         <li> <b>He Sun</b>, Haotian Xu, Mingjun Xiao. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)
         </li>
+        <li> <b>He Sun</b>, Li Li, Mingjun Xiao, Chengzhong Xu. "Efficient RAG System on a Commodity GPU with Computational Storage.", (Under Review)
+        </li>
     </ul>
 </div>
 
