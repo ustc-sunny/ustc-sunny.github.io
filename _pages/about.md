@@ -70,9 +70,9 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 <!-- 更多内容 -->
 <div id="more-content" style="display: none;">
     <ul>
-        <li><span style="font-family: Arial; font-size:medium;"> **He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)</span>
+        <li> <b>He Sun</b>, Jinrui Zhou, Li Li, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)
        </li>
-        <li><span style="font-family: Arial; font-size:medium;"> **He Sun**, Haotian Xu, Mingjun Xiao. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)</span>
+        <li> <b>He Sun</b>, Haotian Xu, Mingjun Xiao. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)
         </li>
     </ul>
 </div>
