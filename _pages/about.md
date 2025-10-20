@@ -64,21 +64,22 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TMC]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 {% raw %}
-<!--
-- <b>[Under Review]</b> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", 2025
--->
+
+
 
 <!-- 更多内容 
 <div id="more-content" style="display: none;">
     <ul>
-        <li><b>He Sun</b>, Li Li, Zijie Lin, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Federated Fine-Tuning for Long-Context Large Language Models." (On Submission)</li>
-        <li><b>He Sun</b>, Li Li, Jinrui Zhou, Mingjun Xiao, Jie Wu. "Efficient Split Federated Fine-Tuning with ZOO for Long-Context Large Language Models." (On Submission)</li>
+        <li><span style="font-family: Arial; font-size:medium;"> **He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)</span>
+       </li>
+        <li><span style="font-family: Arial; font-size:medium;"> **He Sun**, Haotian Xu, Mingjun Xiao. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)</span>
+        </li>
     </ul>
 </div>
 -->
-<!-- More按钮 
+More按钮 
 <p class="more-button" onclick="toggleMore()">More...</p>
--->
+
 <script>
     function toggleMore() {
         var moreContent = document.getElementById("more-content");
