@@ -31,7 +31,7 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 
 - [2025.10] Serve as a Shadow PC of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
-- [2024.9] Join the State Key Laboratory in the Internet of Things for Smart City as a Research Assistant.
+- [2024.9] Join the State Key Laboratory of Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
 - [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
 - [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
