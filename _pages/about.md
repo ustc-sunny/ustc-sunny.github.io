@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am He Sun (孙贺), a fourth-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/)(Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/)(Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi, there. I am He Sun (孙贺), a fourth-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
 My research interests include Mobile Computing & ML Systems (e.g., On-device Training/Tuning of LLM, LLM Inference On Mobile/Edge Devices, Data Trading, Data Sensing, Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE ICDM, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc.
 
@@ -152,19 +152,19 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 
 ## Honors
 - Suzhou Industrial Park Scholarship at USTC (2023.3)
-- "Yang Yuanqing" Scholarship at USTC (2022.12)
-- Excellent League member at USTC( 2021.4)
+- "Yang Yuanqing" Scholarship at USTC (Selecting 4 PhD students in the 2022 class of the School of Computer Science, 2022.12)
+- Excellent League member at USTC (2021.4)
 - 5 times first-class scholarship at QDU (2016-2020)
 - "Shuguang" scholarship (2019.10)
 - Outstanding student leaders prize at QDU (2018.10)
 - Outstanding graduate prize at QDU (2020.5)
 
 ## Competitions Awards
-- Second Prize in China software open source innovation competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
-- Outstanding Winner(No.1) in National College Green Computing Contest-19 (Project Challenge) by CCF, 2019.
-- Outstanding Winner(No.3) in National College Green Computing Contest-18 (Project Challenge) by CCF, 2018.
+- Second Prize in China Software Open Source Innovation Competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
+- Outstanding Winner(Top-1) in National College Green Computing Contest-19 (Project Challenge) by CCF, 2019.
+- Outstanding Winner(Top-3) in National College Green Computing Contest-18 (Project Challenge) by CCF, 2018.
 - Third Prize in Math Competition for College Students, 2019. 
-- Third Prize(Top 8) in Imagine Cup 2018 of Microsoft, 2018. 
+- Third Prize(Top-8) in Imagine Cup 2018 of Microsoft, 2018. 
 - First prize in the National High School Mathematics Competition in Shandong Province, 2015.
 
 
