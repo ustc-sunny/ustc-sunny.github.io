@@ -194,26 +194,38 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     <!-- 照片 1 -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/guilin.jpg" data-full= "../images/guilin.jpg">
-      <div class="location-badge">Landscape of Guilin, 📍 Guilin, Guangxi</div>
+      <div class="location-badge">Landscape of Guilin 📍 Guilin, Guangxi</div>
     </div>
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/newyork.png" data-full= "../images/newyork.png">
-      <div class="location-badge">Statue of Liberty, 📍 Manhattan, New York</div>
+      <div class="location-badge">Statue of Liberty 📍 Manhattan, New York</div>
     </div>
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/infocom.png" data-full="../images/infocom.png">
-      <div class="location-badge">INFOCOM 2023, 📍 Stevens Institute of Technology, New Jersey</div>
+      <div class="location-badge">INFOCOM 2023 📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/pipi.jpg" data-full="../images/pipi.jpg">
-      <div class="location-badge">My Cat PiPi, 📍 Macau/Zhuhai, China</div>
+      <div class="location-badge">My Cat PiPi 📍 Macau/Zhuhai, China</div>
+    </div>
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="../images/shanghai.jpg" data-full="../images/shanghai.jpg">
+      <div class="location-badge">Huangpu River 📍 Shanghai, China</div>
+    </div>
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="../images/shenyang.jpg" data-full="../images/shenyang.pg">
+      <div class="location-badge">Xueyang Zhang's Former Residence 📍 Jinan, China</div>
+    </div>
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="../images/changsha.jpg" data-full="../images/changsha.jpg">
+      <div class="location-badge">沁园春·长沙, Mao's calligraphy 📍 Jinan, China</div>
     </div>
     <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/changsha.jpg" data-full="../images/changsha.jpg">
-      <div class="location-badge">,沁园春·长沙, Mao's calligraphy 📍 Jinan, China</div>
+      <img src="../images/xue.jpg" data-full="../images/xue.jpg">
+      <div class="location-badge">沁园春·雪, Mao's calligraphy 📍 Jinan, China</div>
     </div>
   </div>
 
