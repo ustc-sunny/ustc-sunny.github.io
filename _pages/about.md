@@ -187,7 +187,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
   <span class='anchor' id='-Misc'></span>
 
 - **Hobbies**: Sports: Football, Basketball, Ping Pong, etc.; Music: Folk Music, Rock Music, etc.; Calligraphy: Xizhi Wang, Runzhi Mao; Singing
-  
+- **Some Photos**: Traveling, Conference talk, and pet, etc.（Click to view the large image）
   <!-- 照片矩阵容器 -->
   <div class="photo-grid">
     <!-- 照片 1 -->
