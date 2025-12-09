@@ -197,13 +197,13 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/newyork.HEIC" alt="Statue of Liberty">
+      <img src="../images/newyork.jpg" alt="Statue of Liberty">
       <div class="location-badge">📍 Manhattan, New York</div>
     </div>
 
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/infocom.HEIC" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="INFOCOM 2023">
+      <img src="../images/infocom.jpg" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="INFOCOM 2023">
       <div class="location-badge">📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     
