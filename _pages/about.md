@@ -216,7 +216,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     </div>
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/shenyang.jpg" data-full="../images/shenyang.pg">
-      <div class="location-badge">Xueyang Zhang's Former Residence 📍 Jinan, China</div>
+      <div class="location-badge">Xueyang Zhang's Former Residence with my love 📍 Shenyang, China</div>
     </div>
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/changsha.jpg" data-full="../images/changsha.jpg">
