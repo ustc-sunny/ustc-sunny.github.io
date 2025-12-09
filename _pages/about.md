@@ -234,19 +234,6 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     gap: 15px; 
     margin-top: 20px;
   }
-
-  /* --- 地图容器样式 (新增) --- */
-  .map-container {
-    margin-top: 50px;       /* 与上方照片的间距 */
-    margin-bottom: 30px;    /* 底部留白 */
-    width: 200px;           /* 控制地图显示的宽度，调小这个值地图就会变小 */
-    margin-left: auto;      /* 居中显示 */
-    margin-right: auto;     /* 居中显示 */
-    opacity: 0.8;           /* 稍微降低透明度，不抢视觉重心 */
-    transition: opacity 0.3s;
-    /* 如果ClustrMaps自带背景，可能需要圆角修饰 */
-    overflow: hidden; 
-  }
   
   /* 鼠标放上去时地图变清晰 */
   .map-container:hover {
