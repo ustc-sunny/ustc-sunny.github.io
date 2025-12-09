@@ -184,9 +184,8 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 - Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
 
 # Misc.
-<span class='anchor' id='-Misc'></span>
+<span class='anchor' id='-Misc'>
 <!-- HTML 部分：放在你想显示照片的地方 -->
-<section id="Misc">
   <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: .3em;">Misc.</h2>
   <span class='anchor' id='-Misc'></span>
 
@@ -216,8 +215,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
       <div class="location-badge">📍 伦敦, 英国</div>
     </div>
   </div>
-</section>
-
+</span>
 <!-- 灯箱模态框结构（放在页面底部即可） -->
 <div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
   <span class="close-btn">&times;</span>
