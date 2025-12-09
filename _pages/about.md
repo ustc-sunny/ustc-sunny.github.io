@@ -190,23 +190,23 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
   <div class="photo-grid">
     <!-- 照片 1 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/guilin.jpg" data-full= "../images/guilin.jpg" alt="Landscape of Guilin">
-      <div class="location-badge">📍 Guilin, Guangxi</div>
+      <img src="../images/guilin.jpg" data-full= "../images/guilin.jpg">
+      <div class="location-badge">Landscape of Guilin, 📍 Guilin, Guangxi</div>
     </div>
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/newyork.png" data-full= "../images/newyork.png" alt="Statue of Liberty">
-      <div class="location-badge">📍 Manhattan, New York</div>
+      <img src="../images/newyork.png" data-full= "../images/newyork.png">
+      <div class="location-badge">Statue of Liberty, 📍 Manhattan, New York</div>
     </div>
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/infocom.png" data-full="../images/infocom.png" alt="INFOCOM 2023">
-      <div class="location-badge">📍 Stevens Institute of Technology, New Jersey</div>
+      <img src="../images/infocom.png" data-full="../images/infocom.png">
+      <div class="location-badge">INFOCOM 2023, 📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/pipi.jpg" data-full="../images/pipi.jpg" alt="My Cat PiPi">
-      <div class="location-badge">📍 Macau/Zhuhai, China</div>
+      <img src="../images/pipi.jpg" data-full="../images/pipi.jpg">
+      <div class="location-badge">My Cat PiPi, 📍 Macau/Zhuhai, China</div>
     </div>
   </div>
 
