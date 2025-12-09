@@ -209,8 +209,16 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
       <div class="location-badge">📍 Macau/Zhuhai, China</div>
     </div>
   </div>
+
+  <!-- 分隔线 (可选，增加视觉分离感) -->
+  <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
+
+  <!-- 地图容器：控制大小和间距 -->
+  <div class="map-container">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
+  </div>
   
-<!-- 灯箱模态框结构（放在页面底部即可） -->
+<!-- 灯箱模态框结构 -->
 <div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
   <span class="close-btn">&times;</span>
   <img class="lightbox-content" id="lightbox-img">
@@ -219,57 +227,73 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 
 <!-- CSS 样式 -->
 <style>
-  /* 1. 矩阵布局 */
+  /* --- 矩阵布局 --- */
   .photo-grid {
     display: grid;
-    /* 自动填充列，每列最小宽度 200px，最大占满剩余空间 */
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 15px; /* 图片之间的间距 */
+    gap: 15px; 
     margin-top: 20px;
   }
 
-  /* 2. 单个照片容器 */
+  /* --- 地图容器样式 (新增) --- */
+  .map-container {
+    margin-top: 50px;       /* 与上方照片的间距 */
+    margin-bottom: 30px;    /* 底部留白 */
+    width: 200px;           /* 控制地图显示的宽度，调小这个值地图就会变小 */
+    margin-left: auto;      /* 居中显示 */
+    margin-right: auto;     /* 居中显示 */
+    opacity: 0.8;           /* 稍微降低透明度，不抢视觉重心 */
+    transition: opacity 0.3s;
+    /* 如果ClustrMaps自带背景，可能需要圆角修饰 */
+    overflow: hidden; 
+  }
+  
+  /* 鼠标放上去时地图变清晰 */
+  .map-container:hover {
+    opacity: 1;
+  }
+
+  /* --- 单个照片容器 --- */
   .photo-item {
     position: relative;
-    overflow: hidden; /* 隐藏放大的溢出部分 */
-    border-radius: 8px; /* 圆角 */
+    overflow: hidden; 
+    border-radius: 8px; 
     cursor: pointer;
-    aspect-ratio: 1 / 1; /* 强制正方形缩略图，如果不需要正方形可删除此行 */
+    aspect-ratio: 1 / 1; 
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   }
 
-  /* 3. 图片样式 */
+  /* --- 图片样式 --- */
   .photo-item img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* 保证图片填满容器且不变形 */
-    transition: transform 0.4s ease; /* 放大动画 */
+    object-fit: cover; 
+    transition: transform 0.4s ease; 
     display: block;
   }
 
-  /* 4. 鼠标悬停放大效果 */
+  /* --- 鼠标悬停放大效果 --- */
   .photo-item:hover img {
     transform: scale(1.15);
   }
 
-  /* 5. 地点标签样式 */
+  /* --- 地点标签样式 --- */
   .location-badge {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent); /* 渐变背景 */
+    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
     color: white;
     padding: 10px;
     font-size: 0.9em;
     text-align: center;
-    opacity: 0; /* 默认隐藏 */
-    transform: translateY(100%); /* 默认向下移出视野 */
+    opacity: 0; 
+    transform: translateY(100%); 
     transition: all 0.3s ease;
     box-sizing: border-box;
   }
 
-  /* 悬停时显示地点 */
   .photo-item:hover .location-badge {
     opacity: 1;
     transform: translateY(0);
@@ -277,7 +301,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 
   /* --- 灯箱 (Lightbox) 样式 --- */
   .lightbox {
-    display: none; /* 默认隐藏 */
+    display: none; 
     position: fixed;
     z-index: 9999;
     padding-top: 50px;
@@ -286,7 +310,7 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgba(0,0,0,0.9); /* 黑色背景 */
+    background-color: rgba(0,0,0,0.9); 
   }
 
   .lightbox-content {
@@ -337,15 +361,13 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 
 <!-- JS 脚本 -->
 <script>
-  // 打开灯箱
   function openLightbox(element) {
     var modal = document.getElementById("lightbox-modal");
     var modalImg = document.getElementById("lightbox-img");
     var captionText = document.getElementById("caption");
     
-    // 获取原图及其高分辨率版本
     var img = element.querySelector('img');
-    var fullSrc = img.getAttribute('data-full') || img.src; // 优先使用 data-full，如果没有则用 src
+    var fullSrc = img.getAttribute('data-full') || img.src; 
     var locationText = element.querySelector('.location-badge').innerText;
 
     modal.style.display = "block";
@@ -353,19 +375,14 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
     captionText.innerText = locationText + " - " + img.alt;
   }
 
-  // 关闭灯箱
   function closeLightbox() {
     var modal = document.getElementById("lightbox-modal");
     modal.style.display = "none";
   }
   
-  // 按 ESC 键也可以关闭
   document.addEventListener('keydown', function(event) {
     if (event.key === "Escape") {
       closeLightbox();
     }
   });
 </script>
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
