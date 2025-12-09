@@ -185,6 +185,194 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 
 # Misc.
 <span class='anchor' id='-Misc'></span>
+<!-- HTML 部分：放在你想显示照片的地方 -->
+<section id="Misc">
+  <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: .3em;">Misc.</h2>
+  <span class='anchor' id='-Misc'></span>
 
+  <!-- 照片矩阵容器 -->
+  <div class="photo-grid">
+    <!-- 照片 1 -->
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=600" data-full="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=1600" alt="喵星人 - 东京">
+      <div class="location-badge">📍 东京, 日本</div>
+    </div>
+    
+    <!-- 照片 2 -->
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600" data-full="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1600" alt="主子 - 巴黎">
+      <div class="location-badge">📍 巴黎, 法国</div>
+    </div>
+
+    <!-- 照片 3 -->
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=600" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="崽崽 - 纽约">
+      <div class="location-badge">📍 纽约, 美国</div>
+    </div>
+    
+    <!-- 您可以在这里添加更多 .photo-item -->
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=600" data-full="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=1600" alt="旅行中 - 伦敦">
+      <div class="location-badge">📍 伦敦, 英国</div>
+    </div>
+  </div>
+</section>
+
+<!-- 灯箱模态框结构（放在页面底部即可） -->
+<div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
+  <span class="close-btn">&times;</span>
+  <img class="lightbox-content" id="lightbox-img">
+  <div id="caption"></div>
+</div>
+
+<!-- CSS 样式 -->
+<style>
+  /* 1. 矩阵布局 */
+  .photo-grid {
+    display: grid;
+    /* 自动填充列，每列最小宽度 200px，最大占满剩余空间 */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px; /* 图片之间的间距 */
+    margin-top: 20px;
+  }
+
+  /* 2. 单个照片容器 */
+  .photo-item {
+    position: relative;
+    overflow: hidden; /* 隐藏放大的溢出部分 */
+    border-radius: 8px; /* 圆角 */
+    cursor: pointer;
+    aspect-ratio: 1 / 1; /* 强制正方形缩略图，如果不需要正方形可删除此行 */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+
+  /* 3. 图片样式 */
+  .photo-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 保证图片填满容器且不变形 */
+    transition: transform 0.4s ease; /* 放大动画 */
+    display: block;
+  }
+
+  /* 4. 鼠标悬停放大效果 */
+  .photo-item:hover img {
+    transform: scale(1.15);
+  }
+
+  /* 5. 地点标签样式 */
+  .location-badge {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent); /* 渐变背景 */
+    color: white;
+    padding: 10px;
+    font-size: 0.9em;
+    text-align: center;
+    opacity: 0; /* 默认隐藏 */
+    transform: translateY(100%); /* 默认向下移出视野 */
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+  }
+
+  /* 悬停时显示地点 */
+  .photo-item:hover .location-badge {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* --- 灯箱 (Lightbox) 样式 --- */
+  .lightbox {
+    display: none; /* 默认隐藏 */
+    position: fixed;
+    z-index: 9999;
+    padding-top: 50px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9); /* 黑色背景 */
+  }
+
+  .lightbox-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 80vh;
+    border-radius: 5px;
+    animation-name: zoom;
+    animation-duration: 0.3s;
+  }
+
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+    font-size: 1.2em;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  .close-btn:hover,
+  .close-btn:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  @keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+  }
+</style>
+
+<!-- JS 脚本 -->
+<script>
+  // 打开灯箱
+  function openLightbox(element) {
+    var modal = document.getElementById("lightbox-modal");
+    var modalImg = document.getElementById("lightbox-img");
+    var captionText = document.getElementById("caption");
+    
+    // 获取原图及其高分辨率版本
+    var img = element.querySelector('img');
+    var fullSrc = img.getAttribute('data-full') || img.src; // 优先使用 data-full，如果没有则用 src
+    var locationText = element.querySelector('.location-badge').innerText;
+
+    modal.style.display = "block";
+    modalImg.src = fullSrc;
+    captionText.innerText = locationText + " - " + img.alt;
+  }
+
+  // 关闭灯箱
+  function closeLightbox() {
+    var modal = document.getElementById("lightbox-modal");
+    modal.style.display = "none";
+  }
+  
+  // 按 ESC 键也可以关闭
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeLightbox();
+    }
+  });
+</script>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
