@@ -184,9 +184,8 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 - Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
 
 # Misc.
-<section id="Misc">
-<!-- HTML 部分：放在你想显示照片的地方 -->
   <span class='anchor' id='-Misc'></span>
+  
   <!-- 照片矩阵容器 -->
   <div class="photo-grid">
     <!-- 照片 1 -->
@@ -194,26 +193,23 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
       <img src="../images/guilin.jpg" alt="Landscape of Guilin">
       <div class="location-badge">📍 Guilin, Guangxi</div>
     </div>
-    
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/newyork.jpg" alt="Statue of Liberty">
       <div class="location-badge">📍 Manhattan, New York</div>
     </div>
-
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/infocom.jpg" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="INFOCOM 2023">
       <div class="location-badge">📍 Stevens Institute of Technology, New Jersey</div>
     </div>
-    
     <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/pipi.jpg" data-full="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=1600" alt="My Cat PiPi">
       <div class="location-badge">📍 Macau/Zhuhai, China</div>
     </div>
   </div>
-</section>
+  
 <!-- 灯箱模态框结构（放在页面底部即可） -->
 <div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
   <span class="close-btn">&times;</span>
