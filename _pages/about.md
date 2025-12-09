@@ -184,38 +184,37 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 - Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
 
 # Misc.
-<span class='anchor' id='-Misc'>
+<span class='anchor' id='-Misc'></span>
 <!-- HTML 部分：放在你想显示照片的地方 -->
-  <h2 style="border-bottom: 1px solid #eaecef; padding-bottom: .3em;">Misc.</h2>
   <span class='anchor' id='-Misc'></span>
 
   <!-- 照片矩阵容器 -->
   <div class="photo-grid">
     <!-- 照片 1 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=600" data-full="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=1600" alt="喵星人 - 东京">
-      <div class="location-badge">📍 东京, 日本</div>
+      <img src="../images/guilin.png" data-full="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=1600" alt="Landscape of Guilin">
+      <div class="location-badge">📍 Guilin, Guangxi</div>
     </div>
     
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600" data-full="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1600" alt="主子 - 巴黎">
-      <div class="location-badge">📍 巴黎, 法国</div>
+      <img src="../images/newyork.png" data-full="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1600" alt="Statue of Liberty">
+      <div class="location-badge">📍 Manhattan, New York</div>
     </div>
 
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=600" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="崽崽 - 纽约">
-      <div class="location-badge">📍 纽约, 美国</div>
+      <img src="../images/infocom.png" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="INFOCOM 2023">
+      <div class="location-badge">📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     
     <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=600" data-full="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=1600" alt="旅行中 - 伦敦">
-      <div class="location-badge">📍 伦敦, 英国</div>
+      <img src="../images/pipi.png" data-full="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=1600" alt="My Cat PiPi">
+      <div class="location-badge">📍 Macau/Zhuhai, China</div>
     </div>
   </div>
-</span>
+
 <!-- 灯箱模态框结构（放在页面底部即可） -->
 <div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
   <span class="close-btn">&times;</span>
