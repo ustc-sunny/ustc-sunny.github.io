@@ -183,4 +183,8 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
 - Project of National Natural Science Foundation of China, Research on Key Technologies of Secure and Trusted Mobile Group Intelligence Sensing Data Trading System, 2019.01-2022.12：**Core member**
 - Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
 
+# Misc.
+<span class='anchor' id='-Misc.'></span>
+
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
