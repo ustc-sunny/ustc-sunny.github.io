@@ -190,22 +190,22 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
   <div class="photo-grid">
     <!-- 照片 1 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/guilin.jpg" alt="Landscape of Guilin">
+      <img src="../images/guilin.jpg" data-full= "../images/guilin.jpg" alt="Landscape of Guilin">
       <div class="location-badge">📍 Guilin, Guangxi</div>
     </div>
     <!-- 照片 2 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/guilin.jpg" alt="Statue of Liberty">
+      <img src="../images/newyork.png" data-full= "../images/newyork.png" alt="Statue of Liberty">
       <div class="location-badge">📍 Manhattan, New York</div>
     </div>
     <!-- 照片 3 -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/guilin.jpg" data-full="https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1600" alt="INFOCOM 2023">
+      <img src="../images/infocom.png" data-full="../images/infocom.png" alt="INFOCOM 2023">
       <div class="location-badge">📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/pipi.jpg" data-full="https://images.unsplash.com/photo-1495360019602-e00192167f3a?w=1600" alt="My Cat PiPi">
+      <img src="../images/pipi.jpg" data-full="../images/pipi.jpg" alt="My Cat PiPi">
       <div class="location-badge">📍 Macau/Zhuhai, China</div>
     </div>
   </div>
