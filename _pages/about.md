@@ -206,10 +206,14 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
       <img src="../images/infocom.png" data-full="../images/infocom.png">
       <div class="location-badge">INFOCOM 2023, 📍 Stevens Institute of Technology, New Jersey</div>
     </div>
-    <!-- 您可以在这里添加更多 .photo-item -->
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/pipi.jpg" data-full="../images/pipi.jpg">
       <div class="location-badge">My Cat PiPi, 📍 Macau/Zhuhai, China</div>
+    </div>
+    <!-- 您可以在这里添加更多 .photo-item -->
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="../images/changsha.jpg" data-full="../images/changsha.jpg">
+      <div class="location-badge">,沁园春·长沙, Mao's calligraphy 📍 Jinan, China</div>
     </div>
   </div>
 
