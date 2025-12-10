@@ -207,13 +207,13 @@ School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs
       <div class="location-badge">INFOCOM 2023 📍 Stevens Institute of Technology, New Jersey</div>
     </div>
     <div class="photo-item" onclick="openLightbox(this)">
-      <img src="../images/shanghai.jpg" data-full="../images/shanghai.jpg">
-      <div class="location-badge">Huangpu River 📍 Shanghai, China</div>
-    </div>
-    <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/shenyang.jpg" data-full="../images/shenyang.jpg">
       <div class="location-badge">Xueliang
         Zhang's Former Residence with my love 📍 Shenyang, China</div>
+    </div>
+    <div class="photo-item" onclick="openLightbox(this)">
+      <img src="../images/shanghai.jpg" data-full="../images/shanghai.jpg">
+      <div class="location-badge">Huangpu River 📍 Shanghai, China</div>
     </div>
     <div class="photo-item" onclick="openLightbox(this)">
       <img src="../images/pipi.jpg" data-full="../images/pipi.jpg">
