@@ -22,7 +22,7 @@ Hi, there. I am He Sun (孙贺), a fourth-year Ph.D. student in the [Department 
 
 My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE ICDM, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc. 
 
-I will join HKU as a Postdoctoral Research Fellow in 2026. Please don't hesitate to contact me if you are interested in collaborating on my research.
+I will join the University of Hong Kong as a Postdoctoral Research Fellow in 2026. Please don't hesitate to contact me if you are interested in collaborating on my research.
 
 **Stay hungry and stay foolish.**
 
