@@ -29,6 +29,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- [2026.1] 🎉🎉 One paper was accepted in ICASSP 2026
 - [2025.10] Serve as a Shadow PC of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - [2024.9] Join the State Key Laboratory of Internet of Things for Smart City as a Research Assistant.
