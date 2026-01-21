@@ -44,7 +44,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 <span class='anchor' id='-publications'></span>
 
 ## Preprint
-- <span style="font-family: Arial; font-size:medium;">**He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", Arxiv' 26 </span>
+- <span style="font-family: Arial; font-size:medium;">**He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", Arxiv' 26 [[Paper]](http://arxiv.org/abs/2601.12917)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/pdf/2506.20187) [[Twitter Post]](https://x.com/rohanpaul_ai/status/1940335638714441872) (Related version is accepted by the Shadow PC of Eurosys 2026 Spring)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Junyuan Mao, Mingjun Xiao, "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", Arxiv' 25 </span>
 - <span style="font-family: Arial; font-size:medium;">Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Arxiv' 25 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning) </span>
