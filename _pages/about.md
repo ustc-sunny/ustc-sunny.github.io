@@ -28,7 +28,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-
+- [2026.1] 🎉🎉 One paper was accepted in TMLR 2026
 - [2026.1] 🎉🎉 One paper was accepted in ICASSP 2026
 - [2025.10] Serve as a Shadow PC of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
@@ -53,6 +53,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 ## Conferences and Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[VLDB'26]</b></a> **He Sun**, Junyuan Mao, Mingjun Xiao. "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", 52nd International Conference on Very Large Data Bases, 2026 (Under Review)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, "Accelerating Long-context LLM Inference on a PC." IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMLR'26]</b></a> Yebo Wu, Chunlin Tian, Jingguang Li, He Sun, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Transactions on Machine Learning Research 26 [[paper]]
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICASSP'26]</b></a> Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", ICASSP' 2026 [[Paper]](https://arxiv.org/pdf/2504.20115?)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDM'25]</b></a> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", IEEE International Conference on Data Mining 2025, (Acceptance Rate: 106/785=13.5%)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'24]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594) 
