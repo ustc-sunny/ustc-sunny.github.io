@@ -72,11 +72,11 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 <!-- 更多内容 -->
 <div id="more-content" style="display: none;">
     <ul>
-        <li> <b>He Sun</b>, Jinrui Zhou, Li Li, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)
+        <li> <b>He Sun</b>, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)
        </li>
-        <li> <b>He Sun</b>, Haotian Xu, Mingjun Xiao. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)
+        <li> <b>He Sun</b>, Yewei Zhao, Yi Li, Mingjun Xiao, Jie Wu. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)
         </li>
-        <li> <b>He Sun</b>, Li Li, Mingjun Xiao, Chengzhong Xu. "Efficient RAG System on a Commodity GPU with Computational Storage.", (Under Review)
+        <li> <b>He Sun</b>, Xiaoyang Chen, Li Li, Mingjun Xiao, Chengzhong Xu. "Efficient RAG System on a Commodity GPU with Computational Storage.", (Under Review)
         </li>
     </ul>
 </div>
