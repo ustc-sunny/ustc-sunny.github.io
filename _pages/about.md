@@ -28,8 +28,8 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2026.1] 🎉🎉 One paper was accepted in TMLR 2026
-- [2026.1] 🎉🎉 One paper was accepted in ICASSP 2026
+- [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
+- [2026.1] 🎉🎉 One paper was accepted in ICASSP, TMLR 2026.
 - [2025.10] Serve as a Shadow PC of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - [2024.9] Join the State Key Laboratory of Internet of Things for Smart City as a Research Assistant.
@@ -52,6 +52,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 ## Conferences and Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[VLDB'26]</b></a> **He Sun**, Junyuan Mao, Mingjun Xiao. "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", 52nd International Conference on Very Large Data Bases, 2026 (Under Review)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Accelerating Long-context LLM Inference on a PC." IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2026
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMLR'26]</b></a> Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Transactions on Machine Learning Research 26 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICASSP'26]</b></a> Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", ICASSP' 2026 [[Paper]](https://arxiv.org/pdf/2504.20115?)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDM'25]</b></a> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", IEEE International Conference on Data Mining 2025, (Acceptance Rate: 106/785=13.5%)
@@ -65,7 +66,6 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TMC]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 {% raw %}
 
 
