@@ -30,7 +30,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 <span class='anchor' id='-news'></span>
 - [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
 - [2026.1] 🎉🎉 One paper was accepted in ICASSP, TMLR 2026.
-- [2025.10] Serve as a [Shadow TPC Member](https://2026.eurosys.org/shadow-program-committee.html#pc) of Eurosys 2026 of Eurosys 2026 Fall.
+- [2025.10] Serve as a [Shadow TPC Member](https://2026.eurosys.org/shadow-program-committee.html#pc) of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - [2024.9] Join the State Key Laboratory of Internet of Things for Smart City as a Research Assistant.
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
