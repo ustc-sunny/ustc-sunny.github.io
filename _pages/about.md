@@ -146,6 +146,7 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Network and Service  Management (TNSM)
   - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  - Pattern Recognition (PR)
 * External reviewer:
   - IEEE Transactions on Networking (ToN)
   - IEEE Transactions on Service Computing (TSC)
