@@ -158,13 +158,12 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors
+- Best Paper Award of IEEE MASS 2023 (2023.9)
 - Suzhou Industrial Park Scholarship at USTC (2023.3)
 - "Yang Yuanqing" Scholarship at USTC (Selecting 4 PhD students in the 2022 class of the School of Computer Science, 2022.12)
-- Excellent League member at USTC (2021.4)
-- 5 times first-class scholarship at QDU (2016-2020)
+- 5 times first-class scholarship (2016-2020)
 - "Shuguang" scholarship (2019.10)
-- Outstanding student leaders prize at QDU (2018.10)
-- Outstanding graduate prize at QDU (2020.5)
+- Outstanding graduate prize (2020.5)
 
 ## Competitions Awards
 - Second Prize in China Software Open Source Innovation Competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
