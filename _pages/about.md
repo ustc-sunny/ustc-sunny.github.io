@@ -191,7 +191,7 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
   <span class='anchor' id='-Misc'></span>
 
 - **Hobbies**: Sports: Football, Basketball, Ping Pong, etc.; Music: Folk Music, Rock Music, etc.; Calligraphy: Xizhi Wang, Runzhi Mao; Singing
-- **Favorite**: Football team: Manchester City; NBA team: L.A. Lakers; Singers: Jay Chou, Lei Zhao, JJ, GEM, Leehom
+- **Favorite**: Football team: Manchester City; NBA team: L.A. Lakers; Singers: Jay Chou, Lei Zhao, Eson, JJ, GEM, Leehom
 - **Some Photos**: Traveling, Conference talk, and pet, etc.（Click to view the large image）
   <!-- 照片矩阵容器 -->
   <div class="photo-grid">
