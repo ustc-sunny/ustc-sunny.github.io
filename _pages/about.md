@@ -392,9 +392,10 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
     }
   });
 </script>
-<!-- Map -->
+
+
 <style>
-  /* 3D地球内部元素：限制最大宽高，保持比例 */
+  /* 3D地球内部元素：限制最大宽高，保持比例   Map */
   #globe-container .clstrm_outer,
   #globe-container .clstrm_globe,
   #globe-container .clstrm_inner {
