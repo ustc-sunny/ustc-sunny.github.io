@@ -454,3 +454,17 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
     height: 100% !important;
   }
 </style>
+
+
+/* 简化后的覆盖样式 */
+#globe-container .clstrm_outer,
+#globe-container .clstrm_globe,
+#globe-container .clstrm_inner {
+    width: 100% !important;
+    height: 100% !important;
+}
+#globe-container svg,
+#globe-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
