@@ -393,42 +393,44 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
   });
 </script>
 
-
-<style>
-  /* 3D地球内部元素：限制最大宽高，保持比例   Map */
-  #globe-container .clstrm_outer,
-  #globe-container .clstrm_globe,
-  #globe-container .clstrm_inner {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-  }
-  #globe-container svg,
-  #globe-container canvas {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-  }
-
-  /* 2D地图内部元素：限制最大宽高，保持比例，背景图改为contain */
-  #map-container #clustrmaps-widget-v2,
-  #map-container .clustrmaps-map-container,
-  #map-container .clustrmaps-map {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-  }
-  #map-container .clustrmaps-map {
-    background-size: contain !important;  /* 完整显示背景图 */
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  /* 调整地图内部文字位置（可选） */
-  #map-container .clustrmaps-visitors,
-  #map-container .clustrmaps-date {
-    position: relative; /* 确保在缩放时仍可见 */
-  }
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ClustrMaps 等高测试</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    body { margin: 20px; }
+    .map-row {
+      display: flex;
+      align-items: stretch;
+      gap: 20px;
+      width: 80%;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+    .globe-box {
+      height: 200px;
+      aspect-ratio: 1 / 1;
+      background: #f9f9f9;
+    }
+    .map-box {
+      height: 200px;
+      aspect-ratio: 2 / 1;  /* 假设2D地图是2:1，可根据实际显示微调 */
+      background: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+  <h2>等高地图测试</h2>
+  <div class="map-row">
+    <div class="globe-box">
+      <script type="text/javascript" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
+    </div>
+    <div class="map-box">
+      <script type="text/javascript" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
+    </div>
+  </div>
+  <p>如果两个地图显示正常，则等高布局成功；如果2D地图背景被裁剪，请调整 <code>.map-box</code> 的 <code>aspect-ratio</code> 值。</p>
+</body>
+</html>
