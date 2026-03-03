@@ -236,11 +236,6 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 
   <!-- 分隔线 (可选，增加视觉分离感) -->
   <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
-
-  <!-- 地图容器：控制大小和间距 -->
-  <div class="map-container">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
-  </div>
   
 <!-- 灯箱模态框结构 -->
 <div id="lightbox-modal" class="lightbox" onclick="closeLightbox()">
@@ -398,4 +393,64 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
   });
 </script>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
+<div style="display: flex; flex-wrap: wrap; width: 50%; margin: 0 auto 0 0;"> <!-- 容器：flex布局，宽度为屏幕的50%，靠左对齐（margin-left:0） -->
+  
+  <!-- 第一个地图：3D 地球 (Globe) -->
+  <div style="flex: 1 1 45%; min-width: 150px; padding: 5px; box-sizing: border-box;">
+    <div id="globe-container" style="width: 100%; height: auto; overflow: hidden;">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
+    </div>
+  </div>
+
+  <!-- 第二个地图：2D 地图 (Map) -->
+  <div style="flex: 1 1 45%; min-width: 150px; padding: 5px; box-sizing: border-box;">
+    <div id="map-container" style="width: 100%; height: auto; overflow: hidden;">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
+    </div>
+  </div>
+
+</div>
+
+<!-- 添加一些自定义样式来覆盖地图插件自带的尺寸，确保它们能适应容器 -->
+<style>
+  /* 针对3D地球的样式覆盖 */
+  #globe-container .clstrm_outer {
+    width: 100% !important;    /* 强制宽度填满父容器 */
+    height: auto !important;   /* 高度自适应 */
+    max-width: 100% !important;
+  }
+  #globe-container .clstrm_globe,
+  #globe-container .clstrm_inner {
+    width: 100% !important;
+    height: auto !important;
+    padding-bottom: 100%;      /* 保持1:1 比例，可根据实际调整 */
+    position: relative;
+  }
+  /* 调整地球内部的SVG或画布大小 */
+  #globe-container svg,
+  #globe-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  /* 针对2D地图的样式覆盖 */
+  #map-container #clustrmaps-widget-v2 {
+    width: 100% !important;    /* 覆盖插件可能设置的固定宽度 */
+    max-width: 100% !important;
+    height: auto !important;
+  }
+  #map-container .clustrmaps-map {
+    width: 100% !important;
+    height: auto !important;
+    padding-bottom: 52%;       /* 大约为宽度的1/1.92，模仿原比例，可微调 */
+    background-size: cover !important;
+  }
+  /* 确保地图内部的文字等元素正确显示 */
+  #map-container .clustrmaps-map-container {
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>
