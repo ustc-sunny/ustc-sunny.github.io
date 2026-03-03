@@ -393,44 +393,50 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
   });
 </script>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>ClustrMaps 等高测试</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    body { margin: 20px; }
-    .map-row {
-      display: flex;
-      align-items: stretch;
-      gap: 20px;
-      width: 80%;
-      border: 1px solid #ccc;
-      padding: 10px;
-    }
-    .globe-box {
-      height: 200px;
-      aspect-ratio: 1 / 1;
-      background: #f9f9f9;
-    }
-    .map-box {
-      height: 200px;
-      aspect-ratio: 2 / 1;  /* 假设2D地图是2:1，可根据实际显示微调 */
-      background: #f0f0f0;
-    }
-  </style>
-</head>
-<body>
-  <h2>等高地图测试</h2>
-  <div class="map-row">
-    <div class="globe-box">
-      <script type="text/javascript" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
-    </div>
-    <div class="map-box">
-      <script type="text/javascript" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
-    </div>
+<!-- 确保jQuery已加载（必须放在地图脚本之前） -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div style="display: flex; flex-wrap: nowrap; width: 50%; margin-left: 0; gap: 10px;"> <!-- 父容器：宽度50%，靠左，flex禁止换行，子项间距10px -->
+  
+  <!-- 3D地球容器：高度固定200px，宽度由aspect-ratio决定（1:1正方形） -->
+  <div style="height: 200px; aspect-ratio: 1 / 1; overflow: hidden; background: #f9f9f9; flex-shrink: 0;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
   </div>
-  <p>如果两个地图显示正常，则等高布局成功；如果2D地图背景被裁剪，请调整 <code>.map-box</code> 的 <code>aspect-ratio</code> 值。</p>
-</body>
-</html>
+
+  <!-- 2D地图容器：高度固定200px，宽度由aspect-ratio决定（根据地图实际比例微调，先设为2:1） -->
+  <div style="height: 200px; aspect-ratio: 2 / 1; overflow: hidden; background: #f0f0f0; flex-shrink: 0;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
+  </div>
+
+</div>
+
+<!-- 添加内部样式覆盖，确保地图内容完全适应容器（不溢出、不变形） -->
+<style>
+  /* 3D地球内部元素：最大宽高限制为容器，保持比例 */
+  [id*="globe-container"] canvas,
+  [id*="globe-container"] svg,
+  .clstrm_globe canvas,   /* 更通用的选择器 */
+  .clstrm_globe svg {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    width: auto !important;
+    height: auto !important;
+  }
+
+  /* 2D地图内部元素：让背景图以contain方式完整显示，防止裁剪 */
+  [id*="map-container"] .clustrmaps-map,
+  .clustrmaps-map {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    background-size: contain !important;  /* 改为contain，确保整个地图可见 */
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+  }
+
+  /* 可选：调整地图内部文字位置，防止被遮挡 */
+  .clustrmaps-visitors,
+  .clustrmaps-date {
+    position: relative;
+    z-index: 10;
+  }
+</style>
