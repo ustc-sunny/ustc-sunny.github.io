@@ -392,54 +392,42 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
     }
   });
 </script>
-<!-- Map --!>
-<!-- 在head中或body开头引入jQuery（如果还没有） -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<div style="display: flex; flex-wrap: wrap; width: 50%; margin: 0 auto 0 0;"> <!-- 容器占50%宽度，靠左 -->
-  
-  <!-- 3D地球 -->
-  <div style="flex: 1 1 45%; min-width: 150px; padding: 5px; box-sizing: border-box;">
-    <div id="globe-container" style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden; background: #f9f9f9;">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
-    </div>
-  </div>
-
-  <!-- 2D地图 -->
-  <div style="flex: 1 1 45%; min-width: 150px; padding: 5px; box-sizing: border-box;">
-    <div id="map-container" style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; background: #f0f0f0;"> <!-- 2:1 比例 -->
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
-    </div>
-  </div>
-
-</div>
-
+<!-- Map -->
 <style>
-  /* 确保3D地球内部元素填满容器 */
+  /* 3D地球内部元素：限制最大宽高，保持比例 */
   #globe-container .clstrm_outer,
   #globe-container .clstrm_globe,
   #globe-container .clstrm_inner {
-    width: 100% !important;
-    height: 100% !important;
-    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
   }
   #globe-container svg,
   #globe-container canvas {
-    width: 100% !important;
-    height: 100% !important;
-    position: absolute;
-    top: 0;
-    left: 0;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
   }
 
-  /* 确保2D地图内部元素填满容器 */
+  /* 2D地图内部元素：限制最大宽高，保持比例，背景图改为contain */
   #map-container #clustrmaps-widget-v2,
   #map-container .clustrmaps-map-container,
   #map-container .clustrmaps-map {
-    width: 100% !important;
-    height: 100% !important;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
   }
   #map-container .clustrmaps-map {
-    background-size: cover !important;
+    background-size: contain !important;  /* 完整显示背景图 */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  /* 调整地图内部文字位置（可选） */
+  #map-container .clustrmaps-visitors,
+  #map-container .clustrmaps-date {
+    position: relative; /* 确保在缩放时仍可见 */
   }
 </style>
