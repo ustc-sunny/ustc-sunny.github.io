@@ -28,6 +28,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- [2026.4] Serve as an STPC Member of IMC 2026.
 - [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
 - [2026.1] 🎉🎉 Two papers were accepted in ICASSP, TMLR 2026.
 - [2025.10] Serve as a [Shadow TPC Member](https://2026.eurosys.org/shadow-program-committee.html#pc) of Eurosys 2026 Fall.
