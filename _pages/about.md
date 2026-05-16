@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there. I am He Sun (孙贺), a fourth-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. 
+My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. 
 
 I will join the University of Hong Kong as a Postdoctoral Research Fellow in 2026. Please don't hesitate to contact me if you are interested in collaborating on my research.
 
@@ -28,7 +28,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2026.5] 🎉🎉 One paper was accepted in KDD 2026.
+- [2026.5] 🎉🎉 One paper was accepted in SIGKDD 2026.
 - [2026.5] 🎉🎉 One paper was accepted in ICML 2026.
 - [2026.4] Serve as an STPC Member of IMC 2026.
 - [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
@@ -55,7 +55,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 ## Conferences and Journals
 
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Accelerating Long-context LLM Inference on a PC." IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[KDD'26]</b></a> **He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", KDD' 26 [[Paper]](http://arxiv.org/abs/2601.12917)[[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction)</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[SIGKDD'26]</b></a> **He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", KDD' 26 [[Paper]](http://arxiv.org/abs/2601.12917)[[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, Xichong zhang, **He Sun**, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", International Conference on Machine Learning, 2026
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'26]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2026
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMLR'26]</b></a> Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Transactions on Machine Learning Research 26 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
