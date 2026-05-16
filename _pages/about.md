@@ -28,6 +28,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- [2026.5] 🎉🎉 One paper was accepted in KDD 2026.
 - [2026.5] 🎉🎉 One paper was accepted in ICML 2026.
 - [2026.4] Serve as an STPC Member of IMC 2026.
 - [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
@@ -47,7 +48,6 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 ## Preprint
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Li Li, Mingjun Xiao. "HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2602.18750) [[Twitter Post]](https://x.com/WWVY/status/2026232659219804577) </span>
-- <span style="font-family: Arial; font-size:medium;">**He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", Arxiv' 26 [[Paper]](http://arxiv.org/abs/2601.12917)[[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu, "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/abs/2506.20187) [[Twitter Post]](https://x.com/rohanpaul_ai/status/1940335638714441872) (Related version is accepted by the Shadow PC of Eurosys 2026 Spring)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Junyuan Mao, Mingjun Xiao, "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", Arxiv' 25 [[Paper]](./#)</span>
 - <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, **He Sun**, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)</span>
@@ -55,6 +55,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 ## Conferences and Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[VLDB'26]</b></a> **He Sun**, Junyuan Mao, Mingjun Xiao. "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", 52nd International Conference on Very Large Data Bases, 2026 (Under Review)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Accelerating Long-context LLM Inference on a PC." IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[KDD'26]</b></a>**He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", KDD' 26 [[Paper]](http://arxiv.org/abs/2601.12917)[[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, Xichong zhang, **He Sun**, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", International Conference on Machine Learning, 2026
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'26]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2026
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMLR'26]</b></a> Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Transactions on Machine Learning Research 26 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
