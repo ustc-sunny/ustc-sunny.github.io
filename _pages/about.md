@@ -53,7 +53,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 - <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, **He Sun**, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)</span>
   
 ## Conferences and Journals
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[VLDB'26]</b></a> **He Sun**, Junyuan Mao, Mingjun Xiao. "DataCupid: High-Quality Data Acquisition via Adaptive Task-Expert Stable Matching for LLM Reasoning", 52nd International Conference on Very Large Data Bases, 2026 (Under Review)
+
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Accelerating Long-context LLM Inference on a PC." IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[KDD'26]</b></a> **He Sun**, Jinrui Zhou, Li Li, Mingjun Xiao. "CooperLLM: Cloud–Edge–End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction", KDD' 26 [[Paper]](http://arxiv.org/abs/2601.12917)[[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction)</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, Xichong zhang, **He Sun**, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", International Conference on Machine Learning, 2026
@@ -74,7 +74,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
 
 
 
-<!-- 更多内容 -->
+<!-- 更多内容 
 <div id="more-content" style="display: none;">
     <ul>
         <li> <b>He Sun</b>, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)
@@ -85,7 +85,7 @@ I will join the University of Hong Kong as a Postdoctoral Research Fellow in 202
         </li>
     </ul>
 </div>
-
+-->
 <!--More按钮-->
 <p class="more-button" onclick="toggleMore()">More...</p>
 
