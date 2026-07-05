@@ -123,7 +123,7 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021 - 2026, a Ph.D. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+2022 - 2026, a Ph.D. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
 Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning and Deployment of Personalized LLMs.
 </div>
@@ -138,6 +138,13 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 </div>
 </div>
 
+<div class='school-box'>
+<div><img src='../images/ustc.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2020 - 2022, a Master. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+School of Cyber Science and Technology, mentored by [Nenghao Yu]([https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN))/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
+</div>
+</div>
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
 ## Conferences
