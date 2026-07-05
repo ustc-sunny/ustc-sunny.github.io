@@ -141,7 +141,7 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020 - 2022, a Master. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+2020 - 2022, a Master's Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 School of Cyber Science and Technology, mentored by [Nenghao Yu]([https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN))/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
 </div>
 </div>
