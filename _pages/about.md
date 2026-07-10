@@ -122,6 +122,14 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 <span class='anchor' id='-experiences'></span>
 
 <div class='school-box'>
+<div><img src='../images/hku.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2026 - now, a Postdoc Fellow working with [Shinan Liu](https://www.shinan.info/) in [NAISS lab](https://naisslab.github.io/).
+Department of Data and Systems Engineering, mentored by [Professor Ning Xi](https://www.dase.hku.hk/people/n-xi), The University of Hong Kong, Hong Kong.
+</div>
+</div>
+
+<div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2022 - 2026, a Ph.D. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
