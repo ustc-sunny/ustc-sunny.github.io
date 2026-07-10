@@ -28,7 +28,7 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2026.6] 🎉🎉 I got the Ph.D. from USTC.
+- [2026.6] 🎉🎉 I got the Ph.D. from USTC. Exciting News: I will join HKU as Postdoc Fellow in around September.
 - [2026.5] 🎉🎉 I successfully defended my doctoral dissertation at the USTC.
 - [2026.5] 🎉🎉 Two papers were accepted in SIGKDD 2026 and ICML 2026.
 - [2026.4] Serve as an STPC Member of IMC 2026.
