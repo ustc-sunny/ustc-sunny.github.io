@@ -28,15 +28,15 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2026.5] 🎉🎉 One paper was accepted in SIGKDD 2026.
-- [2026.5] 🎉🎉 One paper was accepted in ICML 2026.
+- [2026.6] 🎉🎉 I got the Ph.D. from USTC.
+- [2026.5] 🎉🎉 I successfully defended my doctoral dissertation at the USTC.
+- [2026.5] 🎉🎉 Two papers were accepted in SIGKDD 2026 and ICML 2026.
 - [2026.4] Serve as an STPC Member of IMC 2026.
 - [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
 - [2026.1] 🎉🎉 Two papers were accepted in ICASSP, TMLR 2026.
 - [2025.10] Serve as a [Shadow TPC Member](https://2026.eurosys.org/shadow-program-committee.html#pc) of Eurosys 2026 Fall.
 - [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
 - [2024.5] 🎉🎉 One paper was accepted in TMC 2024
-- [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
 - [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
 - [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
