@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with Prof. [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
 My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. 
 
@@ -124,7 +124,7 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 <div class='school-box'>
 <div><img src='../images/hku.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2026 - now, a Postdoc Fellow working with [Shinan Liu](https://www.shinan.info/) in [NAISS lab](https://naisslab.github.io/).
+2026 - now, a Postdoc Fellow working with Prof. [Shinan Liu](https://www.shinan.info/) in [NAISS lab](https://naisslab.github.io/).
 Department of Data and Systems Engineering, mentored by [Professor Ning Xi](https://www.dase.hku.hk/people/n-xi), The University of Hong Kong, Hong Kong.
 </div>
 </div>
@@ -132,8 +132,8 @@ Department of Data and Systems Engineering, mentored by [Professor Ning Xi](http
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022 - 2026, a Ph.D. Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
-School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
+2022 - 2026, a Ph.D. Research Assistant supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+School of Computer Science and Technology, mentored by Prof. [Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)/State Key Laboratory of Cognitive Intelligence, mentored by Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
 Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning and Deployment of Personalized LLMs.
 </div>
 </div>
@@ -141,7 +141,7 @@ Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning an
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024 - 2026, a Research Assistant working with [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
+2024 - 2026, a Research Assistant working with Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
@@ -150,8 +150,8 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020 - 2022, a Master's Research Assistant supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
-School of Cyber Science and Technology, mentored by [Nenghao Yu]([https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN))/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
+2020 - 2022, a Master's Research Assistant supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
+School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN))/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
 </div>
 </div>
 # 📖 Professional Services
