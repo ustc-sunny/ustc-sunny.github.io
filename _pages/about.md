@@ -125,7 +125,7 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 <div><img src='../images/hku.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2026 - now, a Postdoc Fellow working with Prof. [Shinan Liu](https://www.shinan.info/) in [NAISS lab](https://naisslab.github.io/).
-Department of Data and Systems Engineering, mentored by [Professor Ning Xi](https://www.dase.hku.hk/people/n-xi), The University of Hong Kong, Hong Kong.
+Department of Data and Systems Engineering, mentored by [Professor Ning Xi](https://www.dase.hku.hk/people/n-xi), The University of Hong Kong, Hong Kong SAR, China.
 </div>
 </div>
 
@@ -143,7 +143,7 @@ Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning an
 <div class='school-box-text' markdown="1">
 2024 - 2026, a Research Assistant working with Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and [Yonghua song](https://rto.um.edu.mo/biography/).
 
-State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
+State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau SAR, China.
 </div>
 </div>
 
