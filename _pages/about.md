@@ -141,7 +141,7 @@ Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning an
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024 - 2026, a Research Assistant working with Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
+2024 - 2026, a Research Assistant working with Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and [Yonghua song](https://rto.um.edu.mo/biography/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
