@@ -1,0 +1,87 @@
+[
+  {
+    "venue": "ToN'26",
+    "author_position": 1,
+    "citation": "**He Sun**, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao, et al. \"Zeroth-Order Federated LLM Fine-tuning with Cloud-assisted Gradient Rectification using Synthetic Training Data\", ACM/IEEE Transactions on Networking, 2026 (Under Review)"
+  },
+  {
+    "venue": "TPDS'26",
+    "author_position": 1,
+    "citation": "**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. \"Accelerating Long-context LLM Inference on a PC\", IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)"
+  },
+  {
+    "venue": "SIGKDD'26",
+    "author_position": 1,
+    "citation": "**He Sun**, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao. \"HeimdaLLM: Efficient Cloud-assisted Federated Fine-tuning with Zeroth-Order Rectification for LLMs\", KDD' 26 [[Paper]](https://dl.acm.org/doi/10.1145/3770855.3817661) (Acceptance Rate: ～602/3252=～18.5%) [[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction) [[Video]](https://www.youtube.com/watch?v=1_cxcvT6Eqg)"
+  },
+  {
+    "venue": "ICML'26",
+    "author_position": 4,
+    "citation": "Jinrui Zhou, Haotian Xu, Xichong zhang, **He Sun**, Mingjun Xiao. \"SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts\", International Conference on Machine Learning, 2026"
+  },
+  {
+    "venue": "TMC'26",
+    "author_position": 2,
+    "citation": "Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. \"Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation\", IEEE Transactions on Mobile Computing, 2026"
+  },
+  {
+    "venue": "TMLR'26",
+    "author_position": 4,
+    "citation": "Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. \"A Survey on Federated Fine-tuning of Large Language Models\", Transactions on Machine Learning Research 26 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)"
+  },
+  {
+    "venue": "ICASSP'26",
+    "author_position": 4,
+    "citation": "Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. \"AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers\", ICASSP' 2026 [[Paper]](https://arxiv.org/pdf/2504.20115?)"
+  },
+  {
+    "venue": "ICDM'25",
+    "author_position": 2,
+    "citation": "Yukai Zhu, **He Sun**, Mingjun Xiao. \"Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering\", IEEE International Conference on Data Mining 2025, (Acceptance Rate: 106/785=13.5%)"
+  },
+  {
+    "venue": "TMC'24",
+    "author_position": 1,
+    "citation": "**He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. \"Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts\", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594)"
+  },
+  {
+    "venue": "TPDS'24",
+    "author_position": 4,
+    "citation": "Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. \"Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity\", IEEE Transactions on Parallel and Distributed Systems, 2024"
+  },
+  {
+    "venue": "JCST'24",
+    "author_position": 6,
+    "citation": "Yin Xu, Mingjun Xiao, Jie Wu, Chen Wu, Jinrui Zhou, and **He Sun**. \"Age-of-Information-Aware Federated Learning\", Journal of Computer Science and Technology, 2024"
+  },
+  {
+    "venue": "ICDCS'24",
+    "author_position": 5,
+    "citation": "Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, \"ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles\", ICDCS'24"
+  },
+  {
+    "venue": "MASS'24",
+    "author_position": 3,
+    "citation": "Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. \"Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers\", Proc. IEEE MASS 2024"
+  },
+  {
+    "venue": "INFOCOM'23",
+    "author_position": 1,
+    "citation": "**He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang \"Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market\", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)"
+  },
+  {
+    "venue": "INFOCOM'23",
+    "author_position": 5,
+    "citation": "Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** \"Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach\", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)"
+  },
+  {
+    "venue": "MASS'23",
+    "author_position": 6,
+    "citation": "Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, \"Towards Federated Learning on Fresh Datasets\", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)"
+  },
+  {
+    "venue": "ICPADS'23",
+    "author_position": 3,
+    "citation": "Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. \"Video Streaming Caching and Transcoding for Heterogeneous Mobile Users\", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)"
+  }
+]

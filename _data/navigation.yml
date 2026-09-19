@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: "/#-publications"
 
   - title: "Experiences"
@@ -21,7 +21,7 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Project"
+  - title: "Grants"
     url: "/#-Project"
   
   - title: "Misc."

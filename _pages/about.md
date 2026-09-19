@@ -18,9 +18,13 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with Prof. [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC. I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with Prof. [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC.
 
-My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. I am also contributing to [WiCi AI](https://wici.ai), an early-stage startup building the local computing layer for the AI era.
+I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+
+My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy).
+
+I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. I am also contributing to [WiCi AI](https://wici.ai), an early-stage startup building the local computing layer for the AI era.
 
 Please don't hesitate to contact me if you are interested in collaborating on my research.
 
@@ -42,7 +46,8 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 - [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
 - [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
 
-# 📝 Publications 
+# 📝 Publications
+{: #publications-heading }
 <span class='anchor' id='-publications'></span>
 
 ## Preprint
@@ -54,69 +59,18 @@ Please don't hesitate to contact me if you are interested in collaborating on my
   
 ## Conferences and Journals
 
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[ToN'26]</b></a> **He Sun**, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao, et al. "Zeroth-Order Federated LLM Fine-tuning with Cloud-assisted Gradient Rectification using Synthetic Training Data", ACM/IEEE Transactions on Networking, 2026 (Under Review)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TPDS'26]</b></a> **He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Accelerating Long-context LLM Inference on a PC", IEEE Transactions on Parallel and Distributed Systems, 2026 (Under Review)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[SIGKDD'26]</b></a> **He Sun**, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao. "HeimdaLLM: Efficient Cloud-assisted Federated Fine-tuning with Zeroth-Order Rectification for LLMs", KDD' 26 [[Paper]](https://dl.acm.org/doi/10.1145/3770855.3817661) (Acceptance Rate: ～602/3252=～18.5%) [[Paper Review]](https://www.themoonlight.io/zh/review/cooperllm-cloud-edge-end-cooperative-federated-fine-tuning-for-llms-via-zoo-based-gradient-correction) [[Video]](https://www.youtube.com/watch?v=1_cxcvT6Eqg)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, Xichong zhang, **He Sun**, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", International Conference on Machine Learning, 2026
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'26]</b></a> Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2026
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMLR'26]</b></a> Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Zhanting Zhou, Haicheng Liao, Zhijiang Guo, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Transactions on Machine Learning Research 26 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICASSP'26]</b></a> Zijie Lin, Yiqing Shen, Qilin Cai, **He Sun**, Jinrui Zhou, Mingjun Xiao. "AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers", ICASSP' 2026 [[Paper]](https://arxiv.org/pdf/2504.20115?)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDM'25]</b></a> Yukai Zhu, **He Sun**, Mingjun Xiao. "Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering", IEEE International Conference on Data Mining 2025, (Acceptance Rate: 106/785=13.5%)
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'24]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594) 
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2024
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[JCST'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Chen Wu, Jinrui Zhou, and **He Sun**. "Age-of-Information-Aware Federated Learning", Journal of Computer Science and Technology, 2024
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDCS'24]</b></a> Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, "ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles", ICDCS'24</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
-{% raw %}
-
-
-
-<!-- 更多内容 
-<div id="more-content" style="display: none;">
-    <ul>
-        <li> <b>He Sun</b>, Jinrui Zhou, Li Li, Yebo Wu, Mingjun Xiao. "CoEdgeLLM: Cloud-Edge-Device Collaborative Federated Fine-tuning with Zeroth-Order Optimization for Large Language Models", (Under Review)
-       </li>
-        <li> <b>He Sun</b>, Yewei Zhao, Yi Li, Mingjun Xiao, Jie Wu. "MeFill: Memory Efficient Federated Fine-tuning for Long-Context Large Language Models", (Under Review)
-        </li>
-        <li> <b>He Sun</b>, Xiaoyang Chen, Li Li, Mingjun Xiao, Chengzhong Xu. "Efficient RAG System on a Commodity GPU with Computational Storage.", (Under Review)
-        </li>
-    </ul>
+<div id="publication-list">
+{% include publications.html %}
 </div>
--->
-<!--More按钮-->
-<p class="more-button" onclick="toggleMore()">More...</p>
 
-<script>
-    function toggleMore() {
-        var moreContent = document.getElementById("more-content");
-        var moreButton = document.querySelector(".more-button");
-
-        if (moreContent.style.display === "none") {
-            moreContent.style.display = "block";
-            moreButton.textContent = "Less...";
-        } else {
-            moreContent.style.display = "none";
-            moreButton.textContent = "More...";
-        }
-    }
-
-    // 确保页面加载时隐藏更多内容
-    document.addEventListener("DOMContentLoaded", function() {
-        document.getElementById("more-content").style.display = "none";
-    });
-</script>
-{% endraw %}
-
-
-
-
+<div id="book-chapters" markdown="1">
 
 ## Book Chapter
 - Mingjun Xiao, Yin Xu, **He Sun**. ["Unknown Worker Recruitment in Mobile Crowdsourcing"](https://link.springer.com/chapter/10.1007/978-3-031-32397-3_3) in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2023, (Part of the Wireless Networks book series)
+
+</div>
+
+<button type="button" id="publications-toggle" class="publications-toggle" aria-expanded="true" aria-controls="publication-list book-chapters" hidden>See all publications</button>
 
 # 📝 Experiences 
 <span class='anchor' id='-experiences'></span>
@@ -154,6 +108,7 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN))/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.<br>
 </div>
 </div>
+
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
 ## Conferences
@@ -275,10 +230,6 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
     margin-top: 20px;
   }
   
-  /* 鼠标放上去时地图变清晰 */
-  .map-container:hover {
-    opacity: 1;
-  }
 
   /* --- 单个照片容器 --- */
   .photo-item {
@@ -413,51 +364,3 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
     }
   });
 </script>
-
-<!-- 确保jQuery已加载（必须放在地图脚本之前） -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<div style="display: flex; flex-wrap: nowrap; width: 50%; margin-left: 0; gap: 10px;"> <!-- 父容器：宽度50%，靠左，flex禁止换行，子项间距10px -->
-  
-  <!-- 3D地球容器：高度固定200px，宽度由aspect-ratio决定（1:1正方形） -->
-  <div style="height: 200px; aspect-ratio: 1 / 1; overflow: hidden; background: #f9f9f9; flex-shrink: 0;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r61whaFnRJCizfWtGWUEeIiln8AeTvOyTstWLYsU91I"></script>
-  </div>
-
-  <!-- 2D地图容器：高度固定200px，宽度由aspect-ratio决定（根据地图实际比例微调，先设为2:1） -->
-  <div style="height: 200px; aspect-ratio: 2 / 1; overflow: hidden; background: #f0f0f0; flex-shrink: 0;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
-  </div>
-
-</div>
-
-<!-- 添加内部样式覆盖，确保地图内容完全适应容器（不溢出、不变形） -->
-<style>
-  /* 3D地球内部元素：最大宽高限制为容器，保持比例 */
-  [id*="globe-container"] canvas,
-  [id*="globe-container"] svg,
-  .clstrm_globe canvas,   /* 更通用的选择器 */
-  .clstrm_globe svg {
-    max-width: 100% !important;
-    max-height: 100% !important;
-    width: auto !important;
-    height: auto !important;
-  }
-
-  /* 2D地图内部元素：让背景图以contain方式完整显示，防止裁剪 */
-  [id*="map-container"] .clustrmaps-map,
-  .clustrmaps-map {
-    max-width: 100% !important;
-    max-height: 100% !important;
-    background-size: contain !important;  /* 改为contain，确保整个地图可见 */
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-  }
-
-  /* 可选：调整地图内部文字位置，防止被遮挡 */
-  .clustrmaps-visitors,
-  .clustrmaps-date {
-    position: relative;
-    z-index: 10;
-  }
-</style>
