@@ -22,13 +22,9 @@ Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The Universi
 
 I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy).
+My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. I am also contributing to [WiCi AI](https://wici.ai), an early-stage startup building the local computing layer for the AI era.
 
-I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. I am also contributing to [WiCi AI](https://wici.ai), an early-stage startup building the local computing layer for the AI era.
-
-Please don't hesitate to contact me if you are interested in collaborating on my research.
-
-**Stay hungry and stay foolish.**
+Please don't hesitate to contact me if you are interested in collaborating on my research. **Stay hungry and stay foolish.**
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
@@ -50,14 +46,14 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 {: #publications-heading }
 <span class='anchor' id='-publications'></span>
 
-## Preprint
+## Preprints
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Siyuan Ma, Junhao Li, Mingjun Xiao, Wenhao Jiang. "Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG ". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2606.21842)[[Twitter Post]](https://x.com/gastronomy/status/2069246521531396456)[[Paper Review]](https://www.dailysecurity.cn/topics/LLM-security-2/) </span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Li Li, Mingjun Xiao. "HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2602.18750) [[Twitter Post]](https://x.com/WWVY/status/2026232659219804577) </span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/abs/2506.20187) [[Twitter Post]](https://x.com/rohanpaul_ai/status/1940335638714441872) (Related version is accepted by the Shadow PC of Eurosys 2026 Spring)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Junyuan Mao, Wenhao Jiang, Mingjun Xiao, Shinan Liu. "DataCupid: High-Quality Data Acquisition via Adaptive Stable Matching with Dalayed Feedback.", Arxiv' 26 [[Paper]](./#)</span>
 - <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, **He Sun**, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)</span>
   
-## Conferences and Journals
+## Selected Papers
 
 <div id="publication-list">
 {% include publications.html %}
