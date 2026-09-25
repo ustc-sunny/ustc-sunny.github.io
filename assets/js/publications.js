@@ -12,7 +12,7 @@
   function render() {
     additional.forEach(function (paper) { paper.hidden = !expanded; });
     chapters.hidden = !expanded;
-    heading.textContent = expanded ? "📝 Publications" : "📝 Selected Publications";
+    heading.textContent = expanded ? "📝 Publications" : "📝 Publications";
     button.textContent = expanded ? "Show selected publications" : "See all publications";
     button.setAttribute("aria-expanded", String(expanded));
   }
