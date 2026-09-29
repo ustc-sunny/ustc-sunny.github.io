@@ -117,12 +117,12 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
 
 ## Journals
 * Reviewer:
+  - IEEE Transactions on Networking (ToN)
   - IEEE Transactions on Mobile Computing (TMC)
-  - IEEE Transactions on Network and Service  Management (TNSM)
   - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  - IEEE Transactions on Network and Service  Management (TNSM)
   - Pattern Recognition (PR)
 * External reviewer:
-  - IEEE Transactions on Networking (ToN)
   - IEEE Transactions on Service Computing (TSC)
   - IEEE Transactions on Big Data (TBD)
   - Information Science (InfoSci)
