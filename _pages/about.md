@@ -15,9 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
+<h1 id="about-me">About Me</h1>
 
-<span class='anchor' id='about-me'></span>
 Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with Prof. [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC.
 
 I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
@@ -26,25 +25,11 @@ My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM
 
 Please don't hesitate to contact me if you are interested in collaborating on my research. **Stay hungry and stay foolish.**
 
-# 🔥 News
-<span class='anchor' id='-news'></span>
-- [2026.6] 🎉🎉 I earned my Ph.D. from USTC and will be joining HKU as a Postdoctoral Fellow in the fall of 2026.
-- [2026.5] 🎉🎉 I successfully defended my doctoral dissertation at the USTC.
-- [2026.5] 🎉🎉 Two papers were accepted in SIGKDD 2026 and ICML 2026.
-- [2026.4] Serve as an STPC Member of IMC 2026.
-- [2026.2] 🎉🎉 One paper was accepted in TMC 2026.
-- [2026.1] 🎉🎉 Two papers were accepted in ICASSP, TMLR 2026.
-- [2025.10] Serve as a [Shadow TPC Member](https://2026.eurosys.org/shadow-program-committee.html#pc) of Eurosys 2026 Fall.
-- [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
-- [2024.5] 🎉🎉 One paper was accepted in TMC 2024
-- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
-- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
-- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
-- [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
+<h1 id="-news">🔥 News</h1>
 
-# 📝 Publications
-{: #publications-heading }
-<span class='anchor' id='-publications'></span>
+{% include news.html %}
+
+<h1 id="-publications"><span id="publications-heading">📝 Publications</span></h1>
 
 ## Preprints
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Siyuan Ma, Junhao Li, Mingjun Xiao, Wenhao Jiang. "Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG ". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2606.21842)[[Twitter Post]](https://x.com/gastronomy/status/2069246521531396456)[[Paper Review]](https://www.dailysecurity.cn/topics/LLM-security-2/) </span>
@@ -68,8 +53,7 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 
 <button type="button" id="publications-toggle" class="publications-toggle" aria-expanded="true" aria-controls="publication-list book-chapters" hidden>See all publications</button>
 
-# 📝 Experiences 
-<span class='anchor' id='-experiences'></span>
+<h1 id="-experiences">📝 Experiences</h1>
 
 <div class='school-box'>
 <div><img src='../images/hku.png' alt="sym" width="80"></div>
@@ -105,8 +89,8 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
 </div>
 </div>
 
-# 📖 Professional Services
-<span class='anchor' id='-services'></span>
+<h1 id="-services">📖 Professional Services</h1>
+
 ## Conferences
 - PC Member of ICLR 2027
 - [STPC Member](https://imc26stpc.hotcrp.com/users/pc) of IMC 2026
@@ -127,8 +111,7 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
   - IEEE Transactions on Big Data (TBD)
   - Information Science (InfoSci)
  
-# 🎖 Honors and Awards
-<span class='anchor' id='-honors-and-awards'></span>
+<h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
 
 ## Honors
 - Best Paper Award of IEEE MASS 2023 (2023.9)
@@ -148,20 +131,19 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
 
 
 
-# 💬 Talks
-<span class='anchor' id='-invited-talks'></span>
+<h1 id="-invited-talks">💬 Talks</h1>
+
 - *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. [slides](https://ustc-sunny.github.io/INFOCOM2023_slides.pdf)
 - *2024.07*: &nbsp; CIBD 2024, 20 July, State Key Laboratory of Cognitive Intelligence, USTC&iFlytek, Hefei. [Poster](https://ustc-sunny.github.io/CIBD2024_sunhe.pdf)
 
-# 💻 Grants
-<span class='anchor' id='-Project'></span>
+<h1 id="-Project">💻 Grants</h1>
+
 - National Innovation and Entrepreneurship Program for College Students in China, The Research and Development of Parking Sharing System in Smart City, 2018.5-2020.5.: **Project leader**
 - Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: **Core member**
 - Project of National Natural Science Foundation of China, Research on Key Technologies of Secure and Trusted Mobile Group Intelligence Sensing Data Trading System, 2019.01-2022.12：**Core member**
 - Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
 
-# Misc.
-  <span class='anchor' id='-Misc'></span>
+<h1 id="-Misc">Misc.</h1>
 
 - **Hobbies**: Sports: Football, Basketball, Ping Pong, etc.; Music: Folk Music, Rock Music, etc.; Calligraphy: Xizhi Wang, Runzhi Mao; Singing
 - **Favorite**: Football team: Manchester City; NBA team: L.A. Lakers; Singers: Jay Chou, Lei Zhao, Eson, JJ, GEM, Leehom

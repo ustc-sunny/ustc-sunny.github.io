@@ -1,0 +1,16 @@
+{% assign news = site.data.news | sort: 'date' | reverse %}
+<ul class="news-list" aria-label="Latest news">
+  {% for item in news limit:6 %}
+  <li><time datetime="{{ item.date | date: '%Y-%m' }}">{{ item.date | date: '%Y.%m' }}</time><div>{{ item.text | markdownify }}</div></li>
+  {% endfor %}
+</ul>
+{% if news.size > 6 %}
+<details class="news-archive" id="news-archive">
+  <summary><span class="news-show">See all news</span><span class="news-hide">Show less news</span><span class="news-count">{{ news.size | minus: 6 }} earlier updates</span></summary>
+  <ul class="news-list" aria-label="Earlier news">
+    {% for item in news offset:6 %}
+    <li><time datetime="{{ item.date | date: '%Y-%m' }}">{{ item.date | date: '%Y.%m' }}</time><div>{{ item.text | markdownify }}</div></li>
+    {% endfor %}
+  </ul>
+</details>
+{% endif %}

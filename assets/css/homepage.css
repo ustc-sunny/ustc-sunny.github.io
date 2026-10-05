@@ -3,21 +3,32 @@
   --homepage-accent: #245b83;
   --homepage-border: #e2e8ed;
   --homepage-muted: #526575;
+  --masthead-height: 64px;
+  --content-gap: 28px;
 }
 
-html { scroll-padding-top: 5rem; }
+html { scroll-padding-top: calc(var(--masthead-height) + 20px); scroll-behavior: smooth; }
 body { color: #27323b; font-size: 16px; line-height: 1.7; }
 [hidden] { display: none !important; }
 
 #main {
   max-width: 1180px;
-  margin: 2.5rem auto 4rem;
+  margin: var(--content-gap) auto 4rem;
   padding: 0 1.5rem;
+  animation: none;
 }
 
 .masthead__inner-wrap { max-width: 1180px; padding: 0.65rem 1.5rem; }
-.masthead { border-color: var(--homepage-border); }
-.greedy-nav a { font-size: 0.9rem; }
+.masthead { border-color: var(--homepage-border); box-shadow: 0 2px 12px rgb(39 50 59 / 4%); animation: none; }
+.greedy-nav a { font-size: 0.9rem; margin: 0 0.65rem; }
+.masthead__menu-item--lg { padding-right: 0.6rem; }
+.greedy-nav .visible-links .masthead__menu-home-item { display: table-cell !important; }
+.greedy-nav .hidden-links .masthead__menu-home-item { display: block !important; }
+.greedy-nav a[aria-current="location"] { color: var(--homepage-accent); }
+.greedy-nav .visible-links a[aria-current="location"]::before { transform: scaleX(1); background: var(--homepage-accent); height: 2px; }
+.greedy-nav .hidden-links { max-height: calc(100dvh - var(--masthead-height) - 24px); overflow-y: auto; }
+.greedy-nav button { border-radius: 5px; background: var(--homepage-accent); }
+.greedy-nav a:focus-visible, .greedy-nav button:focus-visible { outline: 2px solid var(--homepage-accent); outline-offset: 3px; }
 
 .page__content { overflow-wrap: break-word; }
 .page__content p { margin-bottom: 1rem; }
@@ -41,7 +52,22 @@ body { color: #27323b; font-size: 16px; line-height: 1.7; }
 .page__content h1::before,
 .page__content .anchor::before { content: none !important; }
 .page__content .anchor,
-.page__content #about-me { display: block; margin: 0; scroll-margin-top: 5rem; }
+.page__content #about-me { display: block; margin: 0; }
+.page__content #about-me { margin-bottom: 1.2rem; }
+.page__content h1:focus { outline: none; }
+
+.page__content .news-list { list-style: none; padding: 0; margin: 0; }
+.news-list > li { display: grid; grid-template-columns: 5rem minmax(0, 1fr); gap: 1rem; padding: 0.7rem 0; margin: 0; border-bottom: 1px solid #edf1f4; }
+.news-list time { color: var(--homepage-muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; padding-top: 0.1rem; }
+.news-list p:last-child { margin-bottom: 0; }
+.news-archive { margin-top: 0.85rem; }
+.news-archive > summary { width: fit-content; min-height: 44px; padding: 0.55rem 0.85rem; border: 1px solid #bacddc; border-radius: 6px; color: var(--homepage-accent); background: #f3f7fa; font-weight: 600; cursor: pointer; }
+.news-archive > summary:hover { background: #e7f0f6; border-color: var(--homepage-accent); }
+.news-archive > summary:focus-visible { outline: 3px solid #79a8cc; outline-offset: 3px; }
+.news-count { color: var(--homepage-muted); font-size: 0.8rem; font-weight: 400; margin-left: 0.75rem; }
+.news-hide, .news-archive[open] .news-show { display: none; }
+.news-archive[open] .news-hide { display: inline; }
+.news-archive[open] .news-list { margin-top: 0.75rem; }
 
 .publication-list { list-style: none; padding-left: 0 !important; }
 .publication-list li {
@@ -87,9 +113,9 @@ body { color: #27323b; font-size: 16px; line-height: 1.7; }
 .page__content .photo-item { box-shadow: none; border: 1px solid var(--homepage-border); }
 
 @media (min-width: 1000px) {
-  #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 3.25rem; }
+  #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 3rem; align-items: start; }
   #main::before, #main::after { display: none; }
-  #main > .sidebar { float: none; width: auto; margin: 0; padding: 0; }
+  #main > .sidebar { position: sticky; top: calc(var(--masthead-height) + var(--content-gap)); align-self: start; float: none; width: auto; margin: 0; padding: 0; max-height: calc(100dvh - var(--masthead-height) - var(--content-gap) - 16px); overflow-y: auto; overscroll-behavior: contain; transform: none; scrollbar-width: thin; }
   #main > .page { float: none; width: auto; margin: 0; padding: 0; min-width: 0; }
   .sidebar .profile_box { display: block; }
   .sidebar .author__avatar { display: block; width: auto; }
@@ -108,15 +134,22 @@ body { color: #27323b; font-size: 16px; line-height: 1.7; }
 
 @media (max-width: 999px) {
   #main { max-width: 850px; margin-top: 1.5rem; }
-  .sidebar { padding-bottom: 1.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid var(--homepage-border); }
-  .sidebar .profile_box { flex-wrap: wrap; gap: 0.5rem; }
+  #main > .sidebar { position: static; float: none; width: 100%; padding: 0 0 1.5rem; margin: 0 0 1.5rem; border-bottom: 1px solid var(--homepage-border); transform: none; }
+  #main > .page { float: none; width: 100%; padding: 0; }
+  .sidebar .profile_box { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .sidebar .author__avatar { width: 75px; flex: 0 0 75px; }
   .sidebar .author__content { flex: 1; min-width: 180px; }
+  .sidebar .author__urls { display: none !important; }
+  .sidebar .author__urls-wrapper { width: 100%; margin: 0; }
+  .sidebar .author__urls_sm { display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; }
+  .sidebar .author__urls_sm a { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; }
 }
 
 @media (max-width: 600px) {
   #main { padding: 0 1.1rem; }
   .masthead__inner-wrap { padding: 0.5rem 0.75rem; }
   .page__content h1 { font-size: 1.4rem; margin-top: 2rem; }
+  .news-list > li { grid-template-columns: 4.4rem minmax(0, 1fr); gap: 0.65rem; }
   .page__content .school-box { grid-template-columns: 50px minmax(0, 1fr); gap: 0.8rem; }
   .school-box img { width: 48px; height: 48px; }
   .page__content .photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.65rem; }
@@ -127,10 +160,15 @@ body { color: #27323b; font-size: 16px; line-height: 1.7; }
 }
 
 @media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
 
 @media print {
+  #main { display: block; }
+  #main > .sidebar { position: static; max-height: none; overflow: visible; }
+  .news-archive > summary { display: none; }
+  .news-archive > .news-list { display: block; }
   #publication-list [hidden], #book-chapters[hidden] { display: block !important; }
   #publications-toggle { display: none !important; }
 }
