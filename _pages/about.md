@@ -187,6 +187,10 @@ School of Cyber Science and Technology, mentored by Prof. [Nenghao Yu]([https://
       <img src="../images/xue.jpg" data-full="../images/xue.jpg">
       <div class="location-badge">沁园春·雪, Mao's calligraphy 📍 Jinan, China</div>
     </div>
+    <div class="photo-item photo-item--kdd" onclick="openLightbox(this)">
+      <img src="../images/kdd-2026-jeju.jpeg" data-full="../images/kdd-2026-jeju.jpeg" alt="Attending KDD 2026 in Jeju, South Korea" width="1024" height="768" loading="lazy">
+      <div class="location-badge">KDD 2026 📍 Jeju, South Korea</div>
+    </div>
   </div>
 
   <!-- 分隔线 (可选，增加视觉分离感) -->

@@ -103,6 +103,7 @@ body { color: #27323b; font-size: 16px; line-height: 1.7; }
 
 .page__content .photo-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
 .page__content .photo-item { box-shadow: none; border: 1px solid var(--homepage-border); }
+.page__content .photo-item--kdd { grid-column: -2 / -1; }
 
 @media (min-width: 1000px) {
   #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 3rem; align-items: start; }
