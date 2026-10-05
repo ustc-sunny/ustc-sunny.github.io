@@ -1,6 +1,24 @@
 (function () {
   "use strict";
 
+  var newsButton = document.getElementById("news-toggle");
+  var newsArchive = document.getElementById("news-archive");
+  if (newsButton && newsArchive) {
+    var newsExpanded = false;
+    function renderNews() {
+      newsArchive.hidden = !newsExpanded;
+      newsButton.textContent = newsExpanded ? "Show latest news" : "See all news";
+      newsButton.setAttribute("aria-expanded", String(newsExpanded));
+    }
+    renderNews();
+    newsButton.hidden = false;
+    newsButton.addEventListener("click", function () {
+      newsExpanded = !newsExpanded;
+      renderNews();
+      if (!newsExpanded) newsButton.scrollIntoView({ block: "nearest" });
+    });
+  }
+
   var masthead = document.querySelector(".masthead");
   var nav = document.getElementById("site-nav");
   if (!masthead || !nav) return;
