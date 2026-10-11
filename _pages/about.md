@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there, I am He Sun (孙贺). I am currently a Postdoc Fellow at [The University of Hong Kong](https://hku.hk), working with Prof. [Shinan Liu](https://www.shinan.info). I earned my Ph.D. from the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I was a master student at the School of Cyber Science and Technology, USTC.
 
-I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) (Dean of [FST](https://www.fst.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Laura H. Carnell Professor, Temple University, Fellow of IEEE/AAAS), Prof. [Chengzhong Xu](https://personal.fic.um.edu.mo/czxu/) (Dean of [FIC](https://fic.um.edu.mo/) and [FEG](https://feg.um.edu.mo/), Chair Professor, University of Macau, Fellow of IEEE), Prof. [Zili Meng](https://zilimeng.com/) (Assistant Professor, HKUST), Prof. [Li Li](https://personal.fic.um.edu.mo/llili/) (Assistant Professor, University of Macau), [Wenhao Jiang](https://cswhjiang.github.io/) (Lead Researcher, Guangming Lab) and Prof. [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
 My research interests include Mobile Computing & ML Systems (e.g., Efficient LLM training/fine-tuning/inference/reasoning & RAG on resource-limited devices, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc. I am also contributing to [WiCi AI](https://wici.ai), an early-stage startup building the local computing layer for the AI era.
 
@@ -75,7 +75,7 @@ Dissertation: A Data Flow Synergistic Optimization System for the Fine-Tuning an
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024 - 2026, a Research Assistant working with Prof. [Li Li](https://www.fst.um.edu.mo/personal/llili/) and Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/), mentored by [Yonghua Song](https://rto.um.edu.mo/biography/).
+2024 - 2026, a Research Assistant working with Prof. [Li Li](https://personal.fic.um.edu.mo/llili/) and Prof. [Chengzhong Xu](https://personal.fic.um.edu.mo/czxu/), mentored by [Yonghua Song](https://rto.um.edu.mo/biography/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau SAR, China.
 </div>
