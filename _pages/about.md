@@ -23,7 +23,7 @@ I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https:/
 
 My research interests include Mobile Computing & ML Systems/AI Infra (e.g., Efficient LLM training/inference & RAG serving, Efficient Agentic System, Data Matching, and Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, ACM SIGKDD, ACM Eurosys Shadow, ICML, TMC, TPDS, ICDCS, ICDM, TMLR, JCST, ICASSP, MASS, ICPADS, etc.
 
-I am also a **Core Developer** at [WiCi AI](https://wici.ai), working on [InferSSD](https://github.com/wici-ai/inferssd), an open-source inference engine built on llama.cpp that runs models larger than RAM or VRAM by streaming MoE experts from SSD. <a href="https://github.com/wici-ai/inferssd" aria-label="InferSSD on GitHub"><img src="https://img.shields.io/github/stars/wici-ai/inferssd?style=social" alt="InferSSD GitHub stars" height="20" style="display: inline-block; width: auto; margin: 0; vertical-align: middle;"></a>
+I am also a **Core Developer** of [InferSSD](https://github.com/wici-ai/inferssd), an open-source inference engine built on llama.cpp that runs models larger than RAM or VRAM by streaming MoE experts from SSD ([WiCi AI](https://wici.ai)). <a href="https://github.com/wici-ai/inferssd" aria-label="InferSSD on GitHub"><img src="https://img.shields.io/github/stars/wici-ai/inferssd?style=social" alt="InferSSD GitHub stars" height="20" style="display: inline-block; width: auto; margin: 0; vertical-align: middle;"></a>
 
 Please don't hesitate to contact me if you are interested in collaborating on my research. [hesun@hku.hk](mailto:hesun@hku.hk)
 
