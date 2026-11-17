@@ -33,7 +33,10 @@ Please don't hesitate to contact me if you are interested in collaborating on my
 
 <h1 id="-publications"><span id="publications-heading">📝 Publications</span></h1>
 
+<sup>✉</sup> Corresponding author
+
 ## Preprints
+- <span style="font-family: Arial; font-size:medium;">Yin Xu, Yongbo Yang, **He Sun**<sup title="Corresponding author">✉</sup>, Miao Sun, Mingjun Xiao. "SMELL: Sparsity-aware Memory Efficient Federated Fine-tuning for Long-context LLMs", Arxiv' 26 [[Paper]](https://arxiv.org/pdf/2611.19349)</span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Siyuan Ma, Junhao Li, Mingjun Xiao, Wenhao Jiang. "Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG ". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2606.21842)[[Twitter Post]](https://x.com/gastronomy/status/2069246521531396456)[[Paper Review]](https://www.dailysecurity.cn/topics/LLM-security-2/) </span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Shinan Liu, Li Li, Mingjun Xiao. "HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD". Arxiv' 26 [[Paper]](https://arxiv.org/abs/2602.18750) [[Twitter Post]](https://x.com/WWVY/status/2026232659219804577) </span>
 - <span style="font-family: Arial; font-size:medium;">**He Sun**, Li Li, Mingjun Xiao, Chengzhong Xu. "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU", Arxiv' 25 [[Paper]](https://arxiv.org/abs/2506.20187) [[Twitter Post]](https://x.com/rohanpaul_ai/status/1940335638714441872) (Related version is accepted by the Shadow PC of Eurosys 2026 Spring)</span>
