@@ -1,6 +1,6 @@
 <ul class="publication-list">
   {% for paper in site.data.publications %}
-  <li{% if paper.author_position > 2 %} data-additional-publication{% endif %}>
+  <li{% if paper.author_position > 2 and paper.corresponding_author != true %} data-additional-publication{% endif %}>
     <span class="publication-venue{% if paper.citation contains 'Under Review' %} publication-venue--review{% endif %}">[{{ paper.venue }}]</span>
     {{ paper.citation | markdownify | remove: '<p>' | remove: '</p>' }}
   </li>
